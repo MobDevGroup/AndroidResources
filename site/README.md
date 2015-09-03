@@ -101,6 +101,7 @@
 欢迎大家推荐自己在Android开发过程中用的好用的工具、学习开发教程、用到设计素材。
 
 * ### Android源码站
+
 * ### [codota](http://www.codota.com/)
 > 代码示例搜索引擎。
 
@@ -126,6 +127,7 @@
 > Android第三方库与工具站。
 
 * ### Android学习站
+
 * ### [CodePath Android](http://guides.codepath.com/android)
 > 国外不错的Android学习资源站。
 
@@ -148,6 +150,7 @@
 > 国外开发者学习站。
 
 * ### 开源社区
+
 * ### [GitHub](http://www.github.com/)
 > 越来越多喜欢开源的开发者聚集到这里。
 
