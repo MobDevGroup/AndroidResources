@@ -1,5 +1,7 @@
 ## Android开发者博客
+
  ### 组织
+
  * ### [Google](https://developers.google.com/)
  > * site：http://developer.android.com/
  > * blog：http://android-developers.blogspot.com/
@@ -282,6 +284,6 @@
 > * WeiBo：http://weibo.com/rengwuxian
 
 ## 附录
-* ### GitHub[组织排行榜](http://githubranking.com/organizations)
-* ### GitHub[开发者排行榜](http://githubranking.com/users)
-* ### GitHub[中国开发者排行榜](http://githubrank.com/)
+> * GitHub[组织排行榜](http://githubranking.com/organizations)
+> * GitHub[开发者排行榜](http://githubranking.com/users)
+> * GitHub[中国开发者排行榜](http://githubrank.com/)
