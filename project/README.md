@@ -1,4 +1,4 @@
-## Android开源项目
+## Android开源项目：看开源项目源代码也是一种学习方法。
 
 * ### [iosched](https://github.com/google/iosched)
 > Google I/O 2014官方App
@@ -15,11 +15,35 @@
 * ### [git-osc-android-project](https://git.oschina.net/oschina/git-osc-android-project)
 > Git@OSC客户端
 
+* ### [Coding](https://coding.net/u/coding/p/Coding-Android/git)
+> Coding官方客户端
+
 * ### [cheesesquare](https://github.com/chrisbanes/cheesesquare)
 > Android Design library库DEMO
 
 * ### [u2020](https://github.com/JakeWharton/u2020)
 > JakeWharton写的一个App,针对多个库的综合应用：Dagger、ButterKnife、Retrofit、Moshi、Picasso、OkHttp、RxJava、Timber、Madge、ProcessPhoenix、Scalpel、LeakCanary
+
+* ### [ZhihuPaper](https://github.com/cundong/ZhihuPaper)
+> 一个知乎日报客户端
+
+* ### [ZhuanLan](https://github.com/bxbxbai/ZhuanLan)
+> 一个知乎专栏App
+
+* ### [KuaiHu](https://github.com/iKrelve/KuaiHu)
+> 又一个高仿知乎日报应用
+
+* ### [ZhihuDailyPurify](https://github.com/izzyleung/ZhihuDailyPurify)
+> 更纯净的知乎日报应用
+
+* ### [iZhihu](https://github.com/feelinglucky/iZhihu)
+> 随时随地获得「知乎」每日最新精选内容！
+
+* ### [resemble-zhihu-app](https://github.com/meizhou/resemble-zhihu-app)
+> 仿知乎日报android
+
+* ### [KanZhiHu](https://github.com/wenjiahui/KanZhiHu)
+> 看知乎Android端app(非官方)
 
 * ### [2048-android](https://github.com/uberspot/2048-android)
 > 2048游戏Android客户端
@@ -29,6 +53,9 @@
 
 * ### [FlappyCow](https://github.com/cubei/FlappyCow)
 > 类似FlappyBird风格的游戏
+
+* ### [RedReader](https://github.com/QuantumBadger/RedReader)
+> Reddit 第三方客户端
 
 * ### [K-9 Mail](https://github.com/k9mail/k-9)
 > 开源邮件客户端
