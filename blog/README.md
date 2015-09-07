@@ -42,6 +42,8 @@
  > * blog：http://tech.meituan.com/
  > * GitHub：https://github.com/meituan
 
+ * ### [Flipboard](https://github.com/Flipboard)
+
 ### 个人(国外开发者)
 * ### Jake Wharton
 > * 简介：ActionBarSherlock, Android-ViewPagerIndicator, Nine Old Androids, butterknife等库作者
