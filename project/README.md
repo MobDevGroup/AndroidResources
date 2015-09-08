@@ -1,4 +1,4 @@
-## Android开源项目：看开源项目源代码也是一种学习方法。
+## Android开源项目：看优秀源码也是一种学习方法。
 
 * ### [iosched](https://github.com/google/iosched)
 > Google I/O 2014官方App
