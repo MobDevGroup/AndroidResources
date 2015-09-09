@@ -338,7 +338,7 @@
 
 ###  智能识别
 * ### [android-tesseract-ocr](https://github.com/DynamsoftRD/android-tesseract-ocr)
-> https://github.com/DynamsoftRD/android-tesseract-ocr
+> Android Tesseract OCR
 
   以下为第三方服务
 
