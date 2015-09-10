@@ -326,6 +326,34 @@
 * ### [audiorecognizer](https://github.com/wsieroci/audiorecognizer)
 > Roy van Rijn has written wonderful post about Shazam algorithm and how to implement it on our own. To do this he placed many chunks of his project source code, but he did not upload all source code of his application because as he stated: The Shazam patent holders lawyers are sending me emails to stop me from releasing the code and removing this…
 
+### Android插件化
+* ### [DroidPlugin](https://github.com/Qihoo360/DroidPlugin)
+> 360手机助手在Android系统上实现了一种新的插件机制:它可以在无需安装、修改的情况下运行APK文件,此机制对改进大型APP的架构，实现多团队协作开发具有一定的好处。
+
+* ### [dynamic-load-apk](https://github.com/singwhatiwanna/dynamic-load-apk)
+> Apk动态加载框架,支持多进程模式，插件可以运行在单独的DL进程中(代码在lab分支),支持插件中的so库(代码在dev分支)
+
+* ### [CJFrameForAndroid](https://github.com/kymjs/CJFrameForAndroid)
+> Android插件开发框架
+
+* ### [Android-Skin-Loader](https://github.com/fengjundev/Android-Skin-Loader)
+> 一个通过动态加载本地皮肤包进行换肤的皮肤框架
+
+* ### [AndroidDynamicLoader](https://github.com/mmin18/AndroidDynamicLoader)
+> Android Dynamic Loader is a plugin system. The host application is like a browser, but instead of load web pages, it load plugins which runs natively on Android system.
+
+* ### [xCombine](https://github.com/wyouflf/xCombine)
+> Android Plugin Framework
+
+* ### [apf](https://github.com/umeng/apf)
+> Android Plugin Framework
+
+* ### [OpenAtlas](https://github.com/bunnyblue/OpenAtlas)
+> Android动态部署插件/框架：OpenAtlasCore，Android Component Dynamic Deployment(plugin) Framework
+
+* ### [android-plugin](https://github.com/zz7zz7zz/android-plugin)
+> android 利用插件化进行程序扩展
+
 ### 地图定位
 * ### [android-maps-utils](https://github.com/googlemaps/android-maps-utils)
 > Handy extensions to the Google Maps Android API.

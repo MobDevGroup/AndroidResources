@@ -203,3 +203,9 @@
 
 * ### [HappyMusicPlayer](https://github.com/zhangliangming/HappyMusicPlayer)
 > android音乐播放器
+
+* ### [iBeebo](https://github.com/andforce/iBeebo)
+> Sina Weibo Client
+
+* ### [show-java](https://github.com/niranjan94/show-java)
+> Android反编译APK客户端
