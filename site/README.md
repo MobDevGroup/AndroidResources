@@ -100,7 +100,7 @@
 > 收集整理Android开发所需的Android SDK、开发中用到的工具、Android开发教程、Android设计规范，免费的设计素材等。
 欢迎大家推荐自己在Android开发过程中用的好用的工具、学习开发教程、用到设计素材。
 
-* ### Android源码站
+### Android源码站
 
 * ### [codota](http://www.codota.com/)
 > 代码示例搜索引擎。
@@ -126,7 +126,7 @@
 * ### [AndroidLibs](https://android-libs.com/)
 > Android第三方库与工具站。
 
-* ### Android学习站
+### Android学习站
 
 * ### [CodePath Android](http://guides.codepath.com/android)
 > 国外不错的Android学习资源站。
@@ -155,7 +155,7 @@
 * ### [SegmentFault](http://segmentfault.com/)
 > 国内问答站。
 
-* ### 开源社区
+### 开源社区
 
 * ### [GitHub](http://www.github.com/)
 > 越来越多喜欢开源的开发者聚集到这里。
@@ -184,11 +184,11 @@
 * ### [Coding](https://coding.net/user)
 > 国内一家代码托管平台，为软件开发者提供基于云计算技术的软件开发平台，包括项目管理，代码托管，运行空间和质量控制等等。
 
-* ### Git文档
+### Git文档
 
-  > ### [Pro Git（中文版）](http://git.oschina.net/progit/)
-  > ### [GitHub中文指南](http://www.worldhello.net/gotgithub/)
-  > ### [Git官方指南中文版](http://git-scm.com/2010/06/09/pro-git-zh.html)
-  > ### [git - 简易指南](http://www.bootcss.com/p/git-guide/)
-  > ### [廖雪峰Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
-  > ### [猴子都能懂的Git入门](http://backlogtool.com/git-guide/cn/)
+*  ### [Pro Git（中文版）](http://git.oschina.net/progit/)
+* ### [GitHub中文指南](http://www.worldhello.net/gotgithub/)
+* ### [Git官方指南中文版](http://git-scm.com/2010/06/09/pro-git-zh.html)
+* ### [git - 简易指南](http://www.bootcss.com/p/git-guide/)
+* ### [廖雪峰Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+* ### [猴子都能懂的Git入门](http://backlogtool.com/git-guide/cn/)
