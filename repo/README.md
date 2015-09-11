@@ -368,6 +368,12 @@
 * ### [android-tesseract-ocr](https://github.com/DynamsoftRD/android-tesseract-ocr)
 > Android Tesseract OCR
 
+* ### [card.io SDK for Android](https://github.com/card-io/card.io-Android-SDK)
+> 快速强大的信用卡识别库
+
+* ### [ZXing](https://github.com/zxing/zxing)
+> 二维码识别
+
   以下为第三方服务
 
 * ### [人脸识别](http://apistore.baidu.com/apiworks/servicedetail/464.html)
@@ -385,7 +391,7 @@
 * ###  [指纹识别](http://apistore.baidu.com/astore/serviceinfo/28479.html)
 > 提供指纹检测、指纹认证、识别等功能， 并支持第三方应用创建指纹（fingerprint）、人（people）、人群（crowd）。方便第三方应用实现1:1和1：N应用场景。
 
-* ### 推送/即时通信
+### 推送/即时通信
 * ### [Conversations](https://github.com/siacs/Conversations)
 > Conversations is an open source XMPP/Jabber client for Android 4.0+ smart phones.
 
