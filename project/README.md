@@ -207,5 +207,8 @@
 * ### [iBeebo](https://github.com/andforce/iBeebo)
 > Sina Weibo Client
 
+* ### [BlackLight](https://github.com/PaperAirplane-Dev-Team/BlackLight)
+> A light Sina Weibo client for Android
+
 * ### [show-java](https://github.com/niranjan94/show-java)
 > Android反编译APK客户端

@@ -35,6 +35,9 @@
 * ### [开源中国Android专区](http://www.oschina.net/android)
 > 国内开源老大哥，许多喜欢开源的朋友都会常驻在此。
 
+* ### [AndroidCat](http://www.androidcat.com/)
+> 收集和整理Android开发者们在工作和学习过程中可能会需要用到的一些网站和博客链接
+
 * ### [CSDN移动版块](http://blog.csdn.net/mobile/index.html)
 > 全球最大的中文技术社区，其移动博客专栏经常会有不错的文章更新出来。
 
