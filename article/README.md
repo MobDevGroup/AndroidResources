@@ -47,5 +47,3 @@ View 传送指令到 Controller,Controller 完成业务逻辑后，要求 Model 
 ### 图像处理
 
 ### 性能优化
-
-### 架构设计
