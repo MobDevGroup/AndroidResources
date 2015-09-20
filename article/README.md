@@ -129,6 +129,10 @@
 * #### [Android多点触控技术实战，自由地对图片进行缩放和移动](http://blog.csdn.net/guolin_blog/article/details/11100327)
 
 ### 性能优化
+* #### [Android 开发最佳实践](https://github.com/futurice/android-best-practices)
+
+* #### [中文翻译版](https://github.com/futurice/android-best-practices/blob/master/translations/Chinese/README.cn.md)
+
 * #### [Android最佳性能实践(一)——合理管理内存](http://blog.csdn.net/guolin_blog/article/details/42238627)
 * #### [Android最佳性能实践(二)——分析内存的使用情况](http://blog.csdn.net/guolin_blog/article/details/42238633)
 * #### [Android最佳性能实践(三)——高性能编码优化](http://blog.csdn.net/guolin_blog/article/details/42318689)
@@ -161,3 +165,6 @@
 * #### [移动端网络优化](http://www.trinea.cn/android/mobile-performance-optimization/)
 
 * #### [性能优化系列总篇](http://www.trinea.cn/android/performance/)
+
+### 最后
+更多分类和文章正在整理中。。。欢迎大伙自荐或者推荐优秀技术博文。

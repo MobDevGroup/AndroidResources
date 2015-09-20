@@ -289,3 +289,6 @@
 > * GitHub[组织排行榜](http://githubranking.com/organizations)
 > * GitHub[开发者排行榜](http://githubranking.com/users)
 > * GitHub[中国开发者排行榜](http://githubrank.com/)
+
+### 最后
+欢迎自荐和推荐优秀的开发者博客。
