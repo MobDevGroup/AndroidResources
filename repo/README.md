@@ -440,3 +440,6 @@
 * [亚马逊消息推送服务](http://aws.amazon.com/cn/sns/)
 * [个推](http://www.getui.com/)
 * [Bmob消息推送](http://apistore.baidu.com/astore/serviceinfo/1440.html)
+
+### 关于UI
+UI部分太过零碎，暂时考虑会按照App开发的常用模块来分类整理，这个正在归类中，也欢迎大伙给出建议。

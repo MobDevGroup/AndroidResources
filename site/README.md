@@ -69,6 +69,9 @@
 * ### [Android Weekly](http://androidweekly.net/)
 > 国外Android开发者周报。
 
+* ### [谷歌开发者中文视频](http://boolan.com/gdg)
+> 博览网谷歌开发者中文视频
+
 * ### [Android Weekly中文版](http://zhuanlan.zhihu.com/android-weekly)
 > 知乎专栏。
 
@@ -128,6 +131,9 @@
 
 * ### [android-arsenal](http://android-arsenal.com/)
 > 国外搜集的Android实例站点.
+
+* ### [codeKK](http://p.codekk.com/)
+> 开源项目收集
 
 * ### [AndroidLibs](https://android-libs.com/)
 > Android第三方库与工具站。
