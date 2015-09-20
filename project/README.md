@@ -48,6 +48,9 @@
 * ### [2048-android](https://github.com/uberspot/2048-android)
 > 2048游戏Android客户端
 
+* ### [JianDan](https://github.com/ZhaoKaiQiang/JianDan)
+> 高仿煎蛋客户端
+
 * ### [OpenFlappyBird](https://github.com/deano2390/OpenFlappyBird)
 > 用AndEngine写的FlappyBird游戏
 
