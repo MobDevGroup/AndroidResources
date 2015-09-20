@@ -84,6 +84,9 @@
 * ### [API Store](http://apistore.baidu.com/)
 > 百度开发者服务平台，已汇集国内外众多开发者服务。
 
+* ### [apix.cn](http://www.apix.cn/)
+> 国内最大的云服务交易平台
+
 * ### [SDK.CN开发者服务平台](http://www.sdk.cn/)
 > 开发者服务平台。
 
