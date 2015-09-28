@@ -1,6 +1,12 @@
 ## Android开源项目
 > 看优秀源码也是一种学习方法。
 
+* ### [zulip-android](https://github.com/zulip/zulip-android)
+> Dropbox收购公司内部社交服务商Zulip,然后全部开源，这是Android App
+
+* ### [Fast-Access-Floating-Toolbox](https://github.com/k0shk0sh/Fast-Access-Floating-Toolbox-)
+> Fast Access (Floating Toolbox)
+
 * ### [iosched](https://github.com/google/iosched)
 > Google I/O 2014官方App
 
