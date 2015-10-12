@@ -99,6 +99,8 @@
 ### 开源项目解析
 * #### [开源项目解析](http://a.codekk.com/)
 
+* #### [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083#toc_31)
+
 
 ### 项目构建
 * #### [Android Studio系列教程四--Gradle基础](http://stormzhang.com/devtools/2014/12/18/android-studio-tutorial4/)
