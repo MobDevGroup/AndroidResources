@@ -1,6 +1,9 @@
 ## Android开源项目
 > 看优秀源码也是一种学习方法。
 
+* ### [githot](https://github.com/andyiac/githot)
+> GitHot is an Android App that will help you to find the world most popular project and person 
+
 * ### [Timber](https://github.com/naman14/Timber)
 > Material Design Music Player
 
