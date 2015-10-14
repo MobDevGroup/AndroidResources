@@ -1,8 +1,11 @@
 ## Android开源项目
 > 看优秀源码也是一种学习方法。
 
+* ### [掌上V2EX](https://github.com/greatyao/v2ex-android)
+> V2EX 第三方Android客户端
+
 * ### [githot](https://github.com/andyiac/githot)
-> GitHot is an Android App that will help you to find the world most popular project and person 
+> GitHot is an Android App that will help you to find the world most popular project and person
 
 * ### [Timber](https://github.com/naman14/Timber)
 > Material Design Music Player
