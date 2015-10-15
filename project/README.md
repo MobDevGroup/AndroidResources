@@ -1,6 +1,9 @@
 ## Android开源项目
 > 看优秀源码也是一种学习方法。
 
+* ### [rx-android-architecture](https://github.com/tehmou/rx-android-architecture)
+> An example project of an Android architecture built on RxJava
+
 * ### [掌上V2EX](https://github.com/greatyao/v2ex-android)
 > V2EX 第三方Android客户端
 
