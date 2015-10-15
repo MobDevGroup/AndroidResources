@@ -59,6 +59,8 @@
 * ### [androiddesignpatterns](http://www.androiddesignpatterns.com/)
 > Android设计模式
 
+* ### [kotlin中文翻译站](http://tanfujun.cc/kotlin-web-site-cn/)
+> 针对JVM, Android和浏览器的静态编程语言！
 
 * ### [v2ex Android](http://www.v2ex.com/go/android)
 > v2ex Android版块论坛
