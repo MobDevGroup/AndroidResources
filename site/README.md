@@ -5,6 +5,9 @@
 * ### [Android官方分发指南](https://developer.android.com/intl/zh-cn/distribute/index.html)
 > 主要介绍Google play,以及如何开发一款成功的App，和如何用App来吸引并留住用户，App的盈利，数据分析等。
 
+* ### [Codelabs](http://www.code-labs.io/)
+> 谷歌代码学习指南
+
 * ### [Android开发网站国内镜像](http://androiddoc.qiniudn.com/index.html)
 > 无需翻墙。
 
