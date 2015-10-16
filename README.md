@@ -11,7 +11,7 @@ Android开发资源整理
 #### 资源名称
 > 用概括性的话对资源做简单描述。
 
-#### 其它相关
+### 其它相关：
 
 > * 移动开发在线分享开发工具库：[DevelopmentTools](https://github.com/MobDevGroup/DevelopmentTools)
 
