@@ -1,6 +1,9 @@
 ### Android开源项目
 > 看优秀源码也是一种学习方法。
 
+* #### [36krReader](https://github.com/kinneyyan/36krReader)
+> MD风格的36氪Android阅读客户端
+
 * #### [GithubTrends](https://github.com/laowch/GithubTrends)
 > 一个用来看查看 Github 热门项目的 Android App, 遵循 Material Design。
 
