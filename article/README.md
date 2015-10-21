@@ -5,6 +5,12 @@
 
 * #### [浅谈 MVP in Android](http://blog.csdn.net/lmj623565791/article/details/46596109)
 
+* #### [Android项目重构之路:架构篇](http://keeganlee.me/post/android/20150605)
+* #### [Android项目重构之路:界面篇](http://keeganlee.me/post/android/20150619)
+* #### [Android项目重构之路:实现篇](http://keeganlee.me/post/android/20150629)
+* #### [项目源码地址](https://github.com/keeganlee/kandroid)
+
+
 ### 开发经验
 * #### [那份我期盼的简历](http://a.codekk.com/blogs/detail/5527375bd6459ae793499404)
 
