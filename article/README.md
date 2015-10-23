@@ -12,6 +12,8 @@
 
 
 ### 开发经验
+* #### [给Android程序员的一些面试建议](http://blog.csdn.net/singwhatiwanna/article/details/49230997)
+
 * #### [那份我期盼的简历](http://a.codekk.com/blogs/detail/5527375bd6459ae793499404)
 
 * #### [我对Android的理解](http://blog.csdn.net/singwhatiwanna/article/details/46810527)
