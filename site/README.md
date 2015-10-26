@@ -46,6 +46,9 @@
 #### [CSDN移动版块](http://blog.csdn.net/mobile/index.html)
 > 全球最大的中文技术社区，其移动博客专栏经常会有不错的文章更新出来。
 
+#### [极客头条](http://geek.csdn.net/)
+> CSDN主办，每天都会有新的干货发布，人人都是主编
+
 #### [干活集中营](http://gank.io/)
 > 分享移动开发iOS和Android的干货。
 
