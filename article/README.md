@@ -33,6 +33,16 @@
 
 #### [向产品宣战——开发者眼中的Android UI Design](http://blog.csdn.net/eclipsexys/article/details/46238889)
 
+### 开发技巧
+
+#### [Log最佳实践](https://github.com/tianzhijiexian/Android-Best-Practices/blob/master/2015.8/log/log.md)
+
+#### [UI实时预览最佳实践](https://github.com/tianzhijiexian/Android-Best-Practices/blob/master/2015.9/ui/ui.md)
+
+#### [Adapter优化方案的探索](https://github.com/tianzhijiexian/Android-Best-Practices/blob/master/2015.10/adapter/adapter.md)
+
+#### [最简单优雅的使用反射](https://github.com/tianzhijiexian/Android-Best-Practices/blob/master/2015.9/reflect/reflect.md)
+
 ### Activity/Fragment
 
 #### [Android Fragment完全解析，关于碎片你所需知道的一切](http://blog.csdn.net/guolin_blog/article/details/8881711)
