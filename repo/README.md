@@ -390,6 +390,9 @@
 #### [ZXing](https://github.com/zxing/zxing)
 > 二维码识别
 
+#### [DimensCodeTools](https://github.com/ng2Kaming/DimensCodeTools)
+> A library which be used to product barcode,qrcode and scaning.
+
   以下为第三方服务
 
 #### [人脸识别](http://apistore.baidu.com/apiworks/servicedetail/464.html)

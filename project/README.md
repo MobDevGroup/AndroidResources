@@ -1,6 +1,9 @@
 
 ### 开源应用
 
+#### [GEM](https://github.com/Substance-Project/GEM)
+> A music player for Android, in stunning Material Design.
+
 #### [36krReader](https://github.com/kinneyyan/36krReader)
 > MD风格的36氪Android阅读客户端
 
