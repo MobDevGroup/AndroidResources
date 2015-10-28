@@ -1,6 +1,9 @@
 
 ### 开源应用
 
+#### [Hide-Music-Player](https://github.com/w9xhc/Hide-Music-Player)
+> Hide音乐播放器
+
 #### [GEM](https://github.com/Substance-Project/GEM)
 > A music player for Android, in stunning Material Design.
 
