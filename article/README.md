@@ -17,8 +17,6 @@
 
 #### [向产品宣战——开发者眼中的Android UI Design](http://blog.csdn.net/eclipsexys/article/details/46238889)
 
-
-
 ### 开发经验
 
 #### [给Android程序员的一些面试建议](http://blog.csdn.net/singwhatiwanna/article/details/49230997)
@@ -38,8 +36,6 @@
 ### 开发规范
 
 #### [Android技术积累:开发规范](http://keeganlee.me/post/android/20150709)
-
-
 
 ### 开发技巧
 
