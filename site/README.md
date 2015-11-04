@@ -211,6 +211,10 @@
 
 ### Git文档
 
+#### [GitHub Training](https://training.github.com)
+
+#### [Git-it](http://jlord.us/git-it/)
+
 #### [Git系列教程](http://acoder.cc/git.html)
 
 #### [Pro Git（中文版）](http://git.oschina.net/progit/)
