@@ -1,6 +1,12 @@
 
 ### 开源应用
 
+#### [mr-mantou-android](https://github.com/oxoooo/mr-mantou-android)
+> 妹纸应用
+
+#### [ScanBook](https://github.com/JayFang1993/ScanBook)
+> 扫扫图书
+
 #### [phphub-android](https://github.com/CycloneAxe/phphub-android)
 > PHPHub Android客户端
 
