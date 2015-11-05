@@ -344,6 +344,9 @@
 
 ### Android插件化
 
+#### [DynamicAPK](https://github.com/CtripMobile/DynamicAPK)
+> 携程插件化解决方案，实现Android多apk/dex方式的apk加载，支持资源分包，相关文章[地址](http://mp.weixin.qq.com/s?__biz=MzAwMTcwNTE0NA==&mid=400217391&idx=1&sn=86181541ce0164156dfab135ed99bb5c&scene=1&srcid=1104yOOxo7c2fr3ooaz9Pcv5#rd)
+
 #### [DroidPlugin](https://github.com/Qihoo360/DroidPlugin)
 > 360手机助手在Android系统上实现了一种新的插件机制:它可以在无需安装、修改的情况下运行APK文件,此机制对改进大型APP的架构，实现多团队协作开发具有一定的好处。
 
