@@ -172,6 +172,10 @@
 
 ### 性能优化
 
+#### [内存泄露从入门到精通三部曲之基础知识篇](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=400674207&idx=1&sn=a9580ca0dffc62a6d7dbb8fd3d7a2ef1&scene=0&key=b410d3164f5f798e39485589b2e5250271c110cf11a7560f6fb949e56b993a0d85bc5f80af60383724e1fed3210be25c&ascene=0&uin=MjAyNzY1NTU%3D&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.10.5+build(14F27)&version=11020201&pass_ticket=mM7MjOVn2d4S0ZkDKHWDkG9Cgdo%2FKiYCd%2BCFXjwe%2FCo%3D)
+
+#### [加速你的Android应用](http://www.devtf.cn/?p=1097)
+
 #### [Android 开发最佳实践](https://github.com/futurice/android-best-practices)
 
 #### [中文翻译版](https://github.com/futurice/android-best-practices/blob/master/translations/Chinese/README.cn.md)
