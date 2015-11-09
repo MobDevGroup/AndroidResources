@@ -1,6 +1,9 @@
 
 ### 开源应用
 
+#### [V2EX客户端](https://github.com/taoliuh/v2ex)
+> V2EX客户端
+
 #### [mr-mantou-android](https://github.com/oxoooo/mr-mantou-android)
 > 妹纸应用
 
