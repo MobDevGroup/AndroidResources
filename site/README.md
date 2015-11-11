@@ -118,6 +118,9 @@
 #### [memect](http://www.memect.com/)
 > 关注互联网技术。
 
+#### [codepile](https://www.codepile.net/)
+> 代码片段分享站
+
 #### [AndroidoDevTools](http://www.androiddevtools.cn/)
 > 收集整理Android开发所需的Android SDK、开发中用到的工具、Android开发教程、Android设计规范，免费的设计素材等。
 欢迎大家推荐自己在Android开发过程中用的好用的工具、学习开发教程、用到设计素材。
@@ -210,6 +213,8 @@
 > 国内一家代码托管平台，为软件开发者提供基于云计算技术的软件开发平台，包括项目管理，代码托管，运行空间和质量控制等等。
 
 ### Git文档
+
+#### [Git与GitHub入门基础视频](http://www.nowcoder.com/courses/2)
 
 #### [GitHub Training](https://training.github.com)
 

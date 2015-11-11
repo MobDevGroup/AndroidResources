@@ -1,6 +1,15 @@
 
 ### 开源应用
 
+#### [ResoCamera](https://github.com/ValuesFeng/ResoCamera)
+> 一个开源的相机应用
+
+#### [爱看博客Android客户端](https://github.com/KJFrame/KJBlog)
+> https://github.com/KJFrame/KJBlog
+
+#### [ganchai](https://github.com/openproject/ganchai)
+> 干柴（客户端、服务端）
+
 #### [V2EX客户端](https://github.com/taoliuh/v2ex)
 > V2EX客户端
 
