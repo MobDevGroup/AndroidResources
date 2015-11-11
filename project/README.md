@@ -5,7 +5,7 @@
 > 一个开源的相机应用
 
 #### [爱看博客Android客户端](https://github.com/KJFrame/KJBlog)
-> https://github.com/KJFrame/KJBlog
+> 爱看博客Android客户端
 
 #### [ganchai](https://github.com/openproject/ganchai)
 > 干柴（客户端、服务端）
