@@ -179,9 +179,11 @@
 
 #### [Android中Handler引起的内存泄露](http://droidyue.com/blog/2014/12/28/in-android-handler-classes-should-be-static-or-leaks-might-occur/)
 
-#### [内存泄露从入门到精通三部曲之排查方法篇](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=400891536&idx=1&sn=0b6c629b0abe4a359d6552cd244c0c0c&scene=0&key=d4b25ade3662d643209f4b75e10fa26857f77b6a60d1e1c0b7361529f3dcdf8c1506749b0ae4397f4d74e8871e24f62e&ascene=0&uin=MjAyNzY1NTU%3D&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.11.1+build(15B42)&version=11020201&pass_ticket=T1NGa3s1cwXUixFccOjWKBGBwZ3Vfeilv%2BMoVjLgOok%3D)
+#### [内存泄露从入门到精通三部曲之基础知识篇](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=400674207&idx=1&sn=a9580ca0dffc62a6d7dbb8fd3d7a2ef1)
 
-#### [内存泄露从入门到精通三部曲之基础知识篇](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=400674207&idx=1&sn=a9580ca0dffc62a6d7dbb8fd3d7a2ef1&scene=0&key=b410d3164f5f798e39485589b2e5250271c110cf11a7560f6fb949e56b993a0d85bc5f80af60383724e1fed3210be25c&ascene=0&uin=MjAyNzY1NTU%3D&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.10.5+build(14F27)&version=11020201&pass_ticket=mM7MjOVn2d4S0ZkDKHWDkG9Cgdo%2FKiYCd%2BCFXjwe%2FCo%3D)
+#### [内存泄露从入门到精通三部曲之排查方法篇](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=400891536&idx=1&sn=0b6c629b0abe4a359d6552cd244c0c0c)
+
+#### [内存泄露从入门到精通三部曲之常见原因与用户实践](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=401107957&idx=2&sn=4b95bcfedd762b987ec57f60f80b1f94)
 
 #### [加速你的Android应用](http://www.devtf.cn/?p=1097)
 
