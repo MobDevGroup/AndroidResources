@@ -177,6 +177,10 @@
 
 ### 性能优化
 
+#### [用 LeakCanary 检测内存泄漏](https://realm.io/cn/news/droidcon-ricau-memory-leaks-leakcanary/)
+
+#### [10 条提升 Android 性能的建议](https://realm.io/cn/news/droidcon-farber-improving-android-app-performance/)
+
 #### [Android中Handler引起的内存泄露](http://droidyue.com/blog/2014/12/28/in-android-handler-classes-should-be-static-or-leaks-might-occur/)
 
 #### [内存泄露从入门到精通三部曲之基础知识篇](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=400674207&idx=1&sn=a9580ca0dffc62a6d7dbb8fd3d7a2ef1)
