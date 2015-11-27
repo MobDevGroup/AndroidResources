@@ -5,6 +5,8 @@
 
 #### [浅谈 MVP in Android](http://blog.csdn.net/lmj623565791/article/details/46596109)
 
+#### [App工程结构搭建：几种常见Android代码架构分析](http://www.uml.org.cn/mobiledev/201310211.asp)
+
 #### [Android项目重构之路:架构篇](http://keeganlee.me/post/android/20150605)
 
 #### [Android项目重构之路:界面篇](http://keeganlee.me/post/android/20150619)

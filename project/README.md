@@ -1,6 +1,18 @@
 
 ### 开源应用
 
+#### [WeWin](https://github.com/WuXiaolong/WeWin)
+> 开源项目App
+
+#### [MLManager](https://github.com/javiersantos/MLManager)
+> 开源App管理工具
+
+#### [GankDaily](https://github.com/maoruibin/GankDaily)
+> gank.io手机客户端
+
+#### [Android-Carbon-Forum](https://github.com/lincanbin/Android-Carbon-Forum)
+> Material Design风格的 Carbon Forum客户端
+
 #### [ResoCamera](https://github.com/ValuesFeng/ResoCamera)
 > 一个开源的相机应用
 
