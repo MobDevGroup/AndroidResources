@@ -103,6 +103,9 @@
 #### [apix.cn](http://www.apix.cn/)
 > 国内一个云服务交易平台
 
+#### [聚合数据](https://www.juhe.cn/)
+> 提供在线API服务
+
 #### [SDK.CN开发者服务平台](http://www.sdk.cn/)
 > 开发者服务平台。
 

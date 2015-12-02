@@ -292,6 +292,7 @@ https://twitter.com/TwitterOSS
 * GitHub[开发者排行榜](http://githubranking.com/users)
 * GitHub[中国开发者排行榜](http://githubrank.com/)
 * GitHub[排行榜](http://github-awards.com/)
+* [RSS-IT](https://github.com/Gracker/Rss-IT)
 
 ### 最后
 
