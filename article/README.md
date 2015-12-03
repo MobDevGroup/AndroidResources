@@ -157,6 +157,14 @@
 
 #### [美团Android自动化之旅—适配渠道包](http://tech.meituan.com/mt-apk-adaptation.html)
 
+#### [Gradle Plugin User Guide](http://tools.android.com/tech-docs/new-build-system/user-guide)
+
+#### [Android批量打包极速版](http://ihongqiqu.com/blog/2015/07/16/android-mutiple-channel-build/)
+
+#### [App自动化之使用Ant编译项目多渠道打包](http://www.cnblogs.com/qianxudetianxia/archive/2012/07/04/2573687.html)
+
+#### [Android批量打包提速 - 1分钟900个市场不是梦](http://www.cnblogs.com/ct2011/p/4152323.html)
+
 ### 缓存
 
 #### [Android DiskLruCache源码解析硬盘缓存的绝佳方案](http://blog.csdn.net/lmj623565791/article/details/47251585)
@@ -232,18 +240,6 @@
 #### [移动端网络优化](http://www.trinea.cn/android/mobile-performance-optimization/)
 
 #### [性能优化系列总篇](http://www.trinea.cn/android/performance/)
-
-### 构建打包
-
-#### [Gradle Plugin User Guide](http://tools.android.com/tech-docs/new-build-system/user-guide)
-
-[Android批量打包极速版](http://ihongqiqu.com/blog/2015/07/16/android-mutiple-channel-build/)
-
-#### [App自动化之使用Ant编译项目多渠道打包](http://www.cnblogs.com/qianxudetianxia/archive/2012/07/04/2573687.html)
-
-#### [美团Android自动化之旅—生成渠道包](http://tech.meituan.com/mt-apk-packaging.html)
-
-#### [Android批量打包提速 - 1分钟900个市场不是梦](http://www.cnblogs.com/ct2011/p/4152323.html)
 
 ### 动态加载
 
