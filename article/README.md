@@ -233,6 +233,26 @@
 
 #### [性能优化系列总篇](http://www.trinea.cn/android/performance/)
 
+### 构建打包
+
+#### [Gradle Plugin User Guide](http://tools.android.com/tech-docs/new-build-system/user-guide)
+
+[Android批量打包极速版](http://ihongqiqu.com/blog/2015/07/16/android-mutiple-channel-build/)
+
+#### [App自动化之使用Ant编译项目多渠道打包](http://www.cnblogs.com/qianxudetianxia/archive/2012/07/04/2573687.html)
+
+#### [美团Android自动化之旅—生成渠道包](http://tech.meituan.com/mt-apk-packaging.html)
+
+#### [Android批量打包提速 - 1分钟900个市场不是梦](http://www.cnblogs.com/ct2011/p/4152323.html)
+
+### 动态加载
+
+#### [安卓App热补丁动态修复技术介绍](https://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=400118620&idx=1&sn=b4fdd5055731290eef12ad0d17f39d4a)
+
+#### [Android dex分包方案](http://my.oschina.net/853294317/blog/308583)
+
+#### [Android 热补丁动态修复框架小结](http://blog.csdn.net/lmj623565791/article/details/49883661)
+
 ### 其它
 
 #### [在WebView中如何让JS与Java安全地互相调用](http://www.pedant.cn/2014/07/04/webview-js-java-interface-research/)
