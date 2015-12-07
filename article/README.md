@@ -19,6 +19,10 @@
 
 #### [向产品宣战——开发者眼中的Android UI Design](http://blog.csdn.net/eclipsexys/article/details/46238889)
 
+#### [一款APP，从设计稿到切图---iOS篇](http://www.ui.cn/detail/67329.html)
+
+#### [一款APP，从设计稿到切图---Android篇](http://www.ui.cn/detail/79573.html)
+
 ### 开发经验
 
 #### [Android学习路线权威指南](http://blog.csdn.net/singwhatiwanna/article/details/49560409)
@@ -53,6 +57,10 @@
 #### [Adapter优化方案的探索](https://github.com/tianzhijiexian/Android-Best-Practices/blob/master/2015.10/adapter/adapter.md)
 
 #### [最简单优雅的使用反射](https://github.com/tianzhijiexian/Android-Best-Practices/blob/master/2015.9/reflect/reflect.md)
+
+### 开发工具
+
+#### [Android Studio Tips](https://github.com/pavlospt/Android-Studio-Tips-by-Philippe-Breault/wiki)
 
 ### Activity/Fragment
 

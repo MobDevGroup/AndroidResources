@@ -215,6 +215,9 @@
 #### [Coding](https://coding.net/user)
 > 国内一家代码托管平台，为软件开发者提供基于云计算技术的软件开发平台，包括项目管理，代码托管，运行空间和质量控制等等。
 
+#### [豆瓣CODE](http://douban-code.github.io/)
+> 豆瓣旗下的开源协作平台
+
 ### Git文档
 
 #### [Git与GitHub入门基础视频](http://www.nowcoder.com/courses/2)
