@@ -1,6 +1,8 @@
 
 ### 架构
 
+#### [一种在android中实现MVP模式的新思路](https://github.com/bboyfeiyu/android-tech-frontier/tree/master/androidweekly/%E4%B8%80%E7%A7%8D%E5%9C%A8android%E4%B8%AD%E5%AE%9E%E7%8E%B0MVP%E6%A8%A1%E5%BC%8F%E7%9A%84%E6%96%B0%E6%80%9D%E8%B7%AF)
+
 #### [MVC，MVP 和 MVVM 的图示](http://www.ruanyifeng.com/blog/2015/02/mvcmvp_mvvm.html)
 
 #### [浅谈 MVP in Android](http://blog.csdn.net/lmj623565791/article/details/46596109)
@@ -46,6 +48,8 @@
 #### [Android技术积累:开发规范](http://keeganlee.me/post/android/20150709)
 
 ### 开发技巧
+
+#### [RxJava适用场景小结](http://zhuanlan.zhihu.com/program-life/20380883)
 
 #### [android-design-support-library完整学习介绍](http://inthecheesefactory.com/blog/android-design-support-library-codelab)
 > 相关库实例[地址](https://github.com/nuuneoi/Lab-Android-DesignLibrary)
