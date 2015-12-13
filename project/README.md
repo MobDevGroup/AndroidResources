@@ -1,6 +1,9 @@
 
 ### 开源应用
 
+#### [Leisure](https://github.com/MummyDing/Leisure)
+> 闲暇(Leisure)是一款集"知乎日报"、“果壳科学人”、“新华网新闻”以及“豆瓣图书”于一体的阅读类Android应用。
+
 #### [BookdashAndroidApp](https://github.com/spongebobrf/BookdashAndroidApp)
 > Book Dash is an Android App for the NPO where you can download books in different languages for free.
 
