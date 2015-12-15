@@ -131,6 +131,9 @@
 > 收集整理Android开发所需的Android SDK、开发中用到的工具、Android开发教程、Android设计规范，免费的设计素材等。
 欢迎大家推荐自己在Android开发过程中用的好用的工具、学习开发教程、用到设计素材。
 
+#### [知识WIKI](http://wiki.jikexueyuan.com/)
+> 汇集各种技术的wiki指南
+
 ### Android源码站
 
 #### [codota](http://www.codota.com/)

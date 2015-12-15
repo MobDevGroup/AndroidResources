@@ -49,6 +49,8 @@
 
 ### 开发技巧
 
+#### [安卓开发技术：监听软键盘的显示与隐藏](http://toughcoder.net/blog/2015/10/09/android-trick-detect-soft-keyboard-show-slash-hide/)
+
 #### [RxJava适用场景小结](http://zhuanlan.zhihu.com/program-life/20380883)
 
 #### [android-design-support-library完整学习介绍](http://inthecheesefactory.com/blog/android-design-support-library-codelab)
@@ -198,6 +200,12 @@
 #### [Android多点触控技术实战，自由地对图片进行缩放和移动](http://blog.csdn.net/guolin_blog/article/details/11100327)
 
 ### 性能优化
+
+#### [值得推荐的Android应用性能检测工具列表](http://zhuanlan.zhihu.com/zmywly8866/20416881)
+
+#### [性能优化模式](http://tech.meituan.com/performance_tuning_pattern.html)
+
+#### [15个必知的Android开发者选项](http://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=401101455&idx=1&sn=dffc19631e2356ed0aea581f5d7769d7)
 
 #### [用 LeakCanary 检测内存泄漏](https://realm.io/cn/news/droidcon-ricau-memory-leaks-leakcanary/)
 
