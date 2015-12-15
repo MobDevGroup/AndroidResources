@@ -1,6 +1,10 @@
 
 ### 架构
 
+#### [Android架构之从MVP到MVVM](http://www.jianshu.com/p/4e3220a580f6)
+
+#### [【译】Android应用架构](http://www.jianshu.com/p/8ca27934c6e6)
+
 #### [一种在android中实现MVP模式的新思路](https://github.com/bboyfeiyu/android-tech-frontier/tree/master/androidweekly/%E4%B8%80%E7%A7%8D%E5%9C%A8android%E4%B8%AD%E5%AE%9E%E7%8E%B0MVP%E6%A8%A1%E5%BC%8F%E7%9A%84%E6%96%B0%E6%80%9D%E8%B7%AF)
 
 #### [MVC，MVP 和 MVVM 的图示](http://www.ruanyifeng.com/blog/2015/02/mvcmvp_mvvm.html)
