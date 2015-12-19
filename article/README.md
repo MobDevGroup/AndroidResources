@@ -205,6 +205,8 @@
 
 ### 性能优化
 
+#### [Android内存优化杂谈](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=400656149&idx=1&sn=122b4f4965fafebf78ec0b4fce2ef62a)
+
 #### [值得推荐的Android应用性能检测工具列表](http://zhuanlan.zhihu.com/zmywly8866/20416881)
 
 #### [性能优化模式](http://tech.meituan.com/performance_tuning_pattern.html)
