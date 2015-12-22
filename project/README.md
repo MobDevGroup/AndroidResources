@@ -1,6 +1,9 @@
 
 ### 开源应用
 
+#### [Auro](https://github.com/architjn/Auro)
+> 1st Most Fastest, Latest Designed and open source Music player
+
 #### [Leisure](https://github.com/MummyDing/Leisure)
 > 闲暇(Leisure)是一款集"知乎日报"、“果壳科学人”、“新华网新闻”以及“豆瓣图书”于一体的阅读类Android应用。
 
