@@ -1,6 +1,8 @@
 
 ### 架构
 
+#### [Android MVVM到底是啥？看完就明白了](http://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=401410759&idx=1&sn=89f0e3ddf9f21f6a5d4de4388ef2c32f)
+
 #### [Android架构之从MVP到MVVM](http://www.jianshu.com/p/4e3220a580f6)
 
 #### [【译】Android应用架构](http://www.jianshu.com/p/8ca27934c6e6)
