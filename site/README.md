@@ -19,6 +19,9 @@
 #### [Android官方培训课程中文版](http://hukai.me/android-training-course-in-chinese/index.html)
 > 国内开发者组织翻译的Android官网培训课程。
 
+#### [RxMarbles](http://rxmarbles.com/)
+> 直观有趣的宝石图，帮助你更好的理解RxJava操作符
+
 #### [Gradle插件用户指南翻译版](http://rinvay.github.io/android/2015/03/26/Gradle-Plugin-User-Guide%28Translation%29/#102)
 > Gradle插件用户指南翻译版。
 
