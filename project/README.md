@@ -1,6 +1,9 @@
 
 ### 开源应用
 
+#### [SimpleNews](https://github.com/liuling07/SimpleNews)
+> 基于Material Design和MVP的新闻客户端
+
 #### [Auro](https://github.com/architjn/Auro)
 > 1st Most Fastest, Latest Designed and open source Music player
 
