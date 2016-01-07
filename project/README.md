@@ -1,6 +1,9 @@
 
 ### 开源应用
 
+#### [NBAPlus](https://github.com/SilenceDut/NBAPlus)
+> A concise APP about NBA News and Event with RxJava and EventBus
+
 #### [SimpleNews](https://github.com/liuling07/SimpleNews)
 > 基于Material Design和MVP的新闻客户端
 

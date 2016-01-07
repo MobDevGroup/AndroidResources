@@ -55,6 +55,8 @@
 
 ### 开发技巧
 
+#### [Android冷启动时间优化](http://blog.waynell.com/2015/11/17/android-cold-start/)
+
 #### [安卓开发技术：监听软键盘的显示与隐藏](http://toughcoder.net/blog/2015/10/09/android-trick-detect-soft-keyboard-show-slash-hide/)
 
 #### [RxJava适用场景小结](http://zhuanlan.zhihu.com/program-life/20380883)
@@ -206,6 +208,8 @@
 #### [Android多点触控技术实战，自由地对图片进行缩放和移动](http://blog.csdn.net/guolin_blog/article/details/11100327)
 
 ### 性能优化
+
+#### [Andriod性能优化之列表卡顿——以“简书”APP为例](http://blog.csdn.net/zhaokaiqiang1992/article/details/49951095)
 
 #### [Android内存优化杂谈](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=400656149&idx=1&sn=122b4f4965fafebf78ec0b4fce2ef62a)
 
