@@ -1,6 +1,12 @@
 
 ### 开源应用
 
+#### [ribot-app-android](https://github.com/ribot/ribot-app-android)
+> The ribot studio app for the Android Platform 
+
+#### [MovieGuide](https://github.com/esoxjem/MovieGuide)
+> An Android app that showcases the MVP pattern and RxJava
+
 #### [NBAPlus](https://github.com/SilenceDut/NBAPlus)
 > A concise APP about NBA News and Event with RxJava and EventBus
 

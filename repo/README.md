@@ -418,6 +418,9 @@
 
 ### 推送/即时通信
 
+#### [atmosphere](https://github.com/Atmosphere/atmosphere)
+> Realtime Client Server Framework for the JVM, supporting WebSockets with Cross-Browser Fallbacks http://async-io.org/
+
 #### [Conversations](https://github.com/siacs/Conversations)
 > Conversations is an open source XMPP/Jabber client for Android 4.0+ smart phones.
 
