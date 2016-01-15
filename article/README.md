@@ -191,6 +191,8 @@
 
 ### 缓存
 
+#### [Android存储使用参考](http://www.liaohuqiu.net/cn/posts/storage-in-android/)
+
 #### [Android DiskLruCache源码解析硬盘缓存的绝佳方案](http://blog.csdn.net/lmj623565791/article/details/47251585)
 
 #### [android中图片的三级cache策略（内存、文件、网络）之一](http://blog.csdn.net/singwhatiwanna/article/details/9054001)
