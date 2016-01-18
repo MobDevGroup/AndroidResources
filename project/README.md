@@ -1,8 +1,11 @@
 
 ### 开源应用
 
+#### [EasyGank](https://github.com/CaMnter/EasyGank)
+> The project build framework based on the Rx series and MVP pattern
+
 #### [ribot-app-android](https://github.com/ribot/ribot-app-android)
-> The ribot studio app for the Android Platform 
+> The ribot studio app for the Android Platform
 
 #### [MovieGuide](https://github.com/esoxjem/MovieGuide)
 > An Android app that showcases the MVP pattern and RxJava
