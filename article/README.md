@@ -203,6 +203,8 @@
 
 ### 图像处理
 
+#### [Android 开发绕不过的坑：你的 Bitmap 究竟占多大内存？](https://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=403263974&idx=1&sn=b0315addbc47f3c38e65d9c633a12cd6)
+
 #### [Android高效加载大图、多图解决方案，有效避免程序OOM](http://blog.csdn.net/guolin_blog/article/details/9316683)
 
 #### [Android照片墙应用实现，再多的图片也不怕崩溃](http://blog.csdn.net/guolin_blog/article/details/9526203)
@@ -212,6 +214,8 @@
 #### [Android多点触控技术实战，自由地对图片进行缩放和移动](http://blog.csdn.net/guolin_blog/article/details/11100327)
 
 ### 性能优化
+
+#### [BlockCanary — 轻松找出Android App界面卡顿元凶](http://blog.zhaiyifan.cn/2016/01/16/BlockCanaryTransparentPerformanceMonitor/)
 
 #### [Andriod性能优化之列表卡顿——以“简书”APP为例](http://blog.csdn.net/zhaokaiqiang1992/article/details/49951095)
 
