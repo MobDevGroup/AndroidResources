@@ -215,6 +215,10 @@
 
 ### 性能优化
 
+#### [APK瘦身实践](http://www.jayfeng.com/2015/12/29/APK%E7%98%A6%E8%BA%AB%E5%AE%9E%E8%B7%B5/)
+
+#### [Android 内存泄漏总结](http://yq.aliyun.com/articles/3009)
+
 #### [BlockCanary — 轻松找出Android App界面卡顿元凶](http://blog.zhaiyifan.cn/2016/01/16/BlockCanaryTransparentPerformanceMonitor/)
 
 #### [Andriod性能优化之列表卡顿——以“简书”APP为例](http://blog.csdn.net/zhaokaiqiang1992/article/details/49951095)
