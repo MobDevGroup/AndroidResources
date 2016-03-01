@@ -1,6 +1,24 @@
 
 ### 开源应用
 
+#### [GanK](https://github.com/dongjunkun/GanK)
+> 干货集中营第三方客户端
+
+#### [AndroidReview](https://github.com/envyfan/AndroidReview)
+> Android面试复习App
+
+#### [ZhiHuMVP](https://github.com/fangx/ZhiHuMVP)
+> 采用MVP架构的仿知乎APP
+
+#### [OuNews](https://github.com/oubowu/OuNews)
+> 新闻阅读类App
+
+#### [Douya](https://github.com/DreaminginCodeZH/Douya)
+> 开源的 Material Design 豆瓣客户端
+
+#### [SearchPictureTool](https://github.com/wenhuaijun/SearchPictureTool)
+> 图片搜索APP源码，Material Design，Rxjava
+
 #### [ONE-Unofficial](https://github.com/Uphie/ONE-Unofficial)
 > 非官方版“一个(ONE)”，一个比官方版更优秀的版本。
 
