@@ -219,6 +219,8 @@
 
 ### 性能优化
 
+#### [这应该是目前最系统的 Android 界面性能调优资料了](https://testerhome.com/topics/4304)
+
 #### [APK瘦身实践](http://www.jayfeng.com/2015/12/29/APK%E7%98%A6%E8%BA%AB%E5%AE%9E%E8%B7%B5/)
 
 #### [Android 内存泄漏总结](http://yq.aliyun.com/articles/3009)

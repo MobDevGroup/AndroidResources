@@ -1,6 +1,9 @@
 
 ### 开源应用
 
+#### [TranslateApp](https://github.com/maoruibin/TranslateApp)
+> TranslateApp 一个实现『划词翻译』功能的 Android 开源应用
+
 #### [GanK](https://github.com/dongjunkun/GanK)
 > 干货集中营第三方客户端
 

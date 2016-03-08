@@ -140,6 +140,9 @@
 #### [在线混淆模板文件](https://proguard.herokuapp.com/)
 > Proguard文件生成
 
+#### [每天发现一个好链接](http://admire.so/)
+> 每天发现一个好链接
+
 ### Android源码站
 
 #### [codota](http://www.codota.com/)
