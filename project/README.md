@@ -1,6 +1,9 @@
 
 ### 开源应用
 
+#### [CoCoin](https://github.com/Nightonke/CoCoin)
+> 一款多视图记账App
+
 #### [TranslateApp](https://github.com/maoruibin/TranslateApp)
 > TranslateApp 一个实现『划词翻译』功能的 Android 开源应用
 
