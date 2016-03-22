@@ -8,7 +8,7 @@
 > 主要介绍Google play,以及如何开发一款成功的App，和如何用App来吸引并留住用户，App的盈利，数据分析等。
 
 #### [Android Blog 周刊](http://androidblog.cn/)
-> Android Blog 周刊 
+> Android Blog 周刊
 
 #### [Codelabs](http://www.code-labs.io/)
 > 谷歌代码学习指南
@@ -118,6 +118,9 @@
 #### [国外资源站](https://awesome-awesomeness.zeef.com/)
 > 国外资源站
 
+#### [mydevice](http://mydevice.io/)
+> 设备检测
+
 #### [Android碎片化报告](http://opensignal.com/reports/2015/android-fragmentation/)
 > Android历年碎片化报告。
 
@@ -145,6 +148,18 @@
 
 #### [每天发现一个好链接](http://admire.so/)
 > 每天发现一个好链接
+
+#### [jitpack](https://jitpack.io/)
+>快速发布开源库的自定义的Maven仓库
+
+#### [Bintray](https://bintray.com/bintray/jcenter)
+> Android Studio工程默认仓库jcenter
+
+#### [Maven](http://maven.org/)
+> Maven远程仓库
+
+#### [Linux命令学习网站](http://explainshell.com/)
+> Linux命令学习网站
 
 ### Android源码站
 
