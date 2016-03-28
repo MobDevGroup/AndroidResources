@@ -1,6 +1,15 @@
 
 ### 开源应用
 
+#### [Idaily](https://github.com/liuguangqiang/Idaily)
+> 开源的第三方知乎日报客户端
+
+#### [RealStuff](https://github.com/IvorHu/RealStuff)
+> 一个看妹纸与开发资讯的Android APP，具有本地缓存、分享与添加收藏的功能
+
+#### [GankMM](https://github.com/maning0303/GankMM)
+> 干货集中营第三方客户端
+
 #### [CoCoin](https://github.com/Nightonke/CoCoin)
 > 一款多视图记账App
 

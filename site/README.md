@@ -7,6 +7,9 @@
 #### [Android官方分发指南](https://developer.android.com/intl/zh-cn/distribute/index.html)
 > 主要介绍Google play,以及如何开发一款成功的App，和如何用App来吸引并留住用户，App的盈利，数据分析等。
 
+#### [Study Jams](http://www.studyjamscn.com/)
+> 跟着Google一起学Android
+
 #### [Android Blog 周刊](http://androidblog.cn/)
 > Android Blog 周刊
 
