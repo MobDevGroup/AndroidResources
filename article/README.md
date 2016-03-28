@@ -170,6 +170,11 @@
 
 #### [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083#toc_31)
 
+#### [dagger2让你爱不释手-基础依赖注入框架篇](http://www.jianshu.com/p/cd2c1c9f68d4)
+
+#### [dagger2让你爱不释手-重点概念讲解、融合篇](http://www.jianshu.com/p/1d42d2e6f4a5)
+
+#### [dagger2让你爱不释手-终结篇](http://www.jianshu.com/p/65737ac39c44)
 
 ### 项目构建
 
