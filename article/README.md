@@ -33,6 +33,10 @@
 
 #### [一款APP，从设计稿到切图---Android篇](http://www.ui.cn/detail/79573.html)
 
+### 开发调试
+
+#### [如何给安卓APP安装听诊器,检查数据问题](http://www.figotan.org/2016/04/18/using-stetho-to-diagnose-data-on-android/)
+
 ### 开发经验
 
 #### [Android学习路线权威指南](http://blog.csdn.net/singwhatiwanna/article/details/49560409)

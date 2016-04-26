@@ -254,6 +254,9 @@
 #### [豆瓣CODE](http://douban-code.github.io/)
 > 豆瓣旗下的开源协作平台
 
+#### [gitignore](https://www.gitignore.io/)
+> .gitignore配置
+
 ### Git文档
 
 #### [Pro Git 2](http://git-scm.com/book/zh/v2)
