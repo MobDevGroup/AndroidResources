@@ -287,6 +287,7 @@ https://twitter.com/TwitterOSS
 
 ### 附录
 
+* GitHuber.cn[GitHub中国开发者](http://githuber.cn/)
 * GitHuber[打造最好用的GitHub人才搜索工具](http://githuber.info/)
 * GitHub[组织排行榜](http://githubranking.com/organizations)
 * GitHub[开发者排行榜](http://githubranking.com/users)
