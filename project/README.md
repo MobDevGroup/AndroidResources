@@ -1,6 +1,9 @@
 
 ### 开源应用
 
+#### [DiyCodeForAndroid](https://github.com/Yasic/DiyCodeForAndroid)
+> Diycode社区Android客户端
+
 #### [Knowledge](https://github.com/DanteAndroid/Knowledge)
 > A MD project with MVP architecture
 
