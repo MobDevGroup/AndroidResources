@@ -52,6 +52,9 @@
 #### [AndroidCat](http://www.androidcat.com/)
 > 收集和整理Android开发者们在工作和学习过程中可能会需要用到的一些网站和博客链接
 
+#### [DiyCode](http://diycode.cc/)
+> DiyCode是一个国内高端开发者交流分享社区。
+
 #### [CSDN移动版块](http://blog.csdn.net/mobile/index.html)
 > 全球最大的中文技术社区，其移动博客专栏经常会有不错的文章更新出来。
 
