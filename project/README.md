@@ -1,6 +1,12 @@
 
 ### 开源应用
 
+#### [OhMyBiliBili](https://github.com/HotBitmapGG/OhMyBiliBili)
+> 莆田系高仿真哔哩哔哩动画客户端
+
+#### [JNote](https://github.com/Jhuster/JNote)
+> 一款支持部分Markdown语法的轻量级便签软件。
+
 #### [SeeWeather](https://github.com/xcc3641/SeeWeather)
 > 一款遵循Material Design风格的只看天气的APP。
 
