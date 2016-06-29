@@ -1,6 +1,12 @@
 
 ### 开源应用
 
+#### [quill](https://github.com/vickychijwani/quill)
+> 一款搭配Ghost博客的客户端
+
+#### [书柜](https://github.com/iHaPBoy/BookShelf)
+> 一款用于管理个人图书及阅读笔记的移动 Android 应用。
+
 #### [OhMyBiliBili](https://github.com/HotBitmapGG/OhMyBiliBili)
 > 莆田系高仿真哔哩哔哩动画客户端
 
