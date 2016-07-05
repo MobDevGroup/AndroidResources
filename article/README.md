@@ -304,6 +304,8 @@
 
 ### 动态加载
 
+#### [Android博客周刊专题之＃插件化开发＃](http://www.androidblog.cn/index.php/Index/detail/id/16#)
+
 #### [安卓App热补丁动态修复技术介绍](https://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=400118620&idx=1&sn=b4fdd5055731290eef12ad0d17f39d4a)
 
 #### [Android dex分包方案](http://my.oschina.net/853294317/blog/308583)
