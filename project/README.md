@@ -1,6 +1,12 @@
 
 ### 开源应用
 
+#### [PrettyGirls](https://github.com/PleaseCallMeCoder/PrettyGirls)
+> 一个基于MVP+Retrofit+RxJava+MaterialDesign和gank.io的MeiZhi客户端。
+
+#### [OpenEyes](https://github.com/xiaohaibin/OpenEyes)
+> 仿照[开眼视频]客户端做的一个App
+
 #### [quill](https://github.com/vickychijwani/quill)
 > 一款搭配Ghost博客的客户端
 
