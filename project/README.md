@@ -1,6 +1,9 @@
 
 ### 开源应用
 
+### [Simplenote for Android](https://github.com/Automattic/simplenote-android)
+> Simplenote Android客户端
+
 #### [PrettyGirls](https://github.com/PleaseCallMeCoder/PrettyGirls)
 > 一个基于MVP+Retrofit+RxJava+MaterialDesign和gank.io的MeiZhi客户端。
 
