@@ -1,6 +1,9 @@
 
 ### 开源应用
 
+#### [BookReader](https://github.com/JustWayward/BookReader)
+> 任阅小说阅读器，高仿追书神器，实现追书推荐、标签检索、3D仿真翻页效果、文章阅读、缓存章节、日夜间模式、文本朗读等功能。
+
 #### [Tuikan](https://github.com/homcin/Tuikan)
 > 「推看」是一款集知乎头条，美图，视频于一体的休闲阅读app。
 
