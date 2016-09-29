@@ -1,6 +1,15 @@
 
 ### 开源应用
 
+#### [AndroidFire](https://github.com/jaydenxiao2016/AndroidFire)
+> 一款新闻阅读 App框架，基于 Material Design + MVP + RxJava + Retrofit + Glide，基本涵盖了当前 Android 端开发最常用的主流框架，基于此框架可以快速开发一个app。
+
+#### [TasteNews](https://github.com/SomeOneIntheWorld/TasteNews)
+> MVP架构的新闻类应用
+
+#### [FreeBook](https://github.com/80945540/FreeBook)
+> 基于MVP模式开发的带缓存网络爬虫,采用最流行框架搭建,干货多多
+
 #### [BookReader](https://github.com/JustWayward/BookReader)
 > 任阅小说阅读器，高仿追书神器，实现追书推荐、标签检索、3D仿真翻页效果、文章阅读、缓存章节、日夜间模式、文本朗读等功能。
 
