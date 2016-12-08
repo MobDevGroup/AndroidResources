@@ -1,6 +1,12 @@
 
 ### Android资源站
 
+#### [谷歌开发者中国站](https://developers.google.cn/)
+> Google Developers 中国网站是特别为中国开发者而建立的，它汇集了 Google 为全球开发者所提供的开发技术资源，包括 API 文档、开发案例、技术培训的视频。
+
+#### [ndroid官方开发指南中文站](http://developer.android.google.cn/)
+> 主要介绍Android 入门，API使用指南，API查阅参考，相关开发工具介绍，Google服务，官方给出的实例(Samples),以及每年Google I/O大会发布的预览版Android系统。无须翻墙
+
 #### [Android官方开发指南](https://developer.android.com/intl/zh-cn/develop/index.html)
 >   主要介绍Android 入门，API使用指南，API查阅参考，相关开发工具介绍，Google服务，官方给出的实例(Samples),以及每年Google I/O大会发布的预览版Android系统，需借助VPN翻墙。
 
