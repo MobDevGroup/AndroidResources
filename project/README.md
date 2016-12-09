@@ -1,6 +1,18 @@
 
 ### 开源应用
 
+#### [likequanmintv](https://github.com/a371166028/likequanmintv)
+> 基于MVP的Retrofit2(okhttp3)+rxjava+dagger2+greendao+glide+rtmp直播。该项目系仿全民TV,属于独立开发者作品.
+
+#### [MyDiary](https://github.com/erttyy8821/MyDiary)
+> 电影《你的名字》同款App
+
+#### [KnowWeather](https://github.com/SilenceDut/KnowWeather)
+> 一款漂亮的 Android 天气 App
+
+#### [FolioReader-Android](https://github.com/FolioReader/FolioReader-Android)
+> 一款完成度很高的ePub Android 阅读器
+
 #### [StylishMusicPlayer](https://github.com/ryanhoo/StylishMusicPlayer)
 > A stylish music player for android device 16+
 
