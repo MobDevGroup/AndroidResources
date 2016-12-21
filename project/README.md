@@ -1,6 +1,15 @@
 
 ### 开源应用
 
+#### [WeekToDo](https://github.com/a-voyager/WeekToDo)
+> 《番茄周》软件开源项目
+
+#### [仿茄子快传](https://github.com/mayubao/KuaiChuan)
+> 仿茄子快传的一款文件传输应用， 涉及到Socket通信，包括TCP，UDP通信。
+
+#### [MaterialHome](https://github.com/hymanme/MaterialHome)
+> 一款第三方的豆瓣图书客户端
+
 #### [likequanmintv](https://github.com/a371166028/likequanmintv)
 > 基于MVP的Retrofit2(okhttp3)+rxjava+dagger2+greendao+glide+rtmp直播。该项目系仿全民TV,属于独立开发者作品.
 
