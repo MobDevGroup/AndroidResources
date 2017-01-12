@@ -1,6 +1,12 @@
 
 ### 开源应用
 
+#### [干乎](https://github.com/jokermonn/GankOr)
+> 一款基于 Gank 和知乎接口的娱乐休闲软件
+
+#### [TryGank](https://github.com/AstroGypsophila/TryGank)
+> 干货集中营第三方客户端
+
 #### [remusic](https://github.com/aa112901/remusic)
 > 仿网易云音乐 安卓版，netease android，音乐播放器 在线 下载
 
