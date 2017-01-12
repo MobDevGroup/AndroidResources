@@ -1,6 +1,9 @@
 
 ### 开源应用
 
+#### [CloudReader](https://github.com/youlookwhat/CloudReader)
+> 云阅：一款基于网易云音乐UI，使用Gank.Io及豆瓣api开发的符合Google Material Design的Android开源项目。项目采取的是MVVM-DataBinding架构开发，现主要包括：干货区、电影区和书籍区三个子模块。
+
 #### [干乎](https://github.com/jokermonn/GankOr)
 > 一款基于 Gank 和知乎接口的娱乐休闲软件
 
