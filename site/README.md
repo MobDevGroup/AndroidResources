@@ -268,6 +268,15 @@
 
 ### Git文档
 
+### [shortcutfoo](https://www.shortcutfoo.com/)
+> 一个在线练习快捷键操作的网站，他提供了一种有趣的在线游戏方式供开发者学习
+
+#### [Git在线模拟学习](https://try.github.io/)
+
+#### [Learn Git Branching](http://learngitbranching.js.org/)
+
+#### [图解Git](http://marklodato.github.io/visual-git-guide/index-zh-cn.html)
+
 #### [Pro Git 2](http://git-scm.com/book/zh/v2)
 
 #### [Git与GitHub入门基础视频](http://www.nowcoder.com/courses/2)
