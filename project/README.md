@@ -1,6 +1,15 @@
 
 ### 开源应用
 
+#### [Shuttle](https://github.com/timusus/Shuttle)
+> Shuttle音乐播放器
+
+#### [FastHub](https://github.com/k0shk0sh/FastHub)
+> 漂亮，简洁的 Android GitHub 客户端
+
+#### [GracefulMovies](https://github.com/woxingxiao/GracefulMovies)
+> 简影讯，简约精彩影讯。基于Retrofit+RxJava+MVP+Colorful多彩主题框架开发的高颜值影讯app。简约，优雅，精彩，即看即走，现已正式发布上线。
+
 #### [TodayNews](https://github.com/yewei02538/TodayNews)
 > 一个仿今日头条的开源项目
 
