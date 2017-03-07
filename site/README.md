@@ -176,6 +176,9 @@
 #### [GitLogs](http://www.gitlogs.com/)
 > 一个支持订阅GitHub流行趋势库的网站
 
+#### [hashnode](https://hashnode.com)
+> 在线技术文章分类
+
 ### Android源码站
 
 #### [codota](http://www.codota.com/)
@@ -233,77 +236,3 @@
 
 #### [SegmentFault](http://segmentfault.com/)
 > 国内问答站。
-
-### 开源社区
-
-#### [GitHub](http://www.github.com/)
-> 越来越多喜欢开源的开发者聚集到这里。
-
-#### [CodePlex](http://www.codeplex.com/)
-> 微软主办的开源网站。
-
-#### [Google Code](https://code.google.com/)
-> 谷歌旗下的开源网站，前不久谷歌宣布要将其关闭。
-
-#### [SourceForge](http://sourceforge.net/)
-> SourceForge.net，又称SF.net，是开源软件开发者进行开发管理的集中式场所。
-
-#### [bitbucket](https://bitbucket.org/)
-> 国外另一个git托管平台,不过这里可以免费创建私有代码仓库。
-
-#### [GitLab](https://www.gitlab.com/)
-> 作为开源项目，国外又一个git托管平台。
-
-#### [GitCafe](https://gitcafe.com/)
-> 国内一家git开源社区托管平台。
-
-#### [Git@OSC](http://git.oschina.net/)
-> 开源中国旗下代码托管平台。
-
-#### [Coding](https://coding.net/user)
-> 国内一家代码托管平台，为软件开发者提供基于云计算技术的软件开发平台，包括项目管理，代码托管，运行空间和质量控制等等。
-
-#### [豆瓣CODE](http://douban-code.github.io/)
-> 豆瓣旗下的开源协作平台
-
-#### [gitignore](https://www.gitignore.io/)
-> .gitignore配置
-
-### Git文档
-
-### [shortcutfoo](https://www.shortcutfoo.com/)
-> 一个在线练习快捷键操作的网站，他提供了一种有趣的在线游戏方式供开发者学习
-
-#### [Git在线模拟学习](https://try.github.io/)
-
-#### [Learn Git Branching](http://learngitbranching.js.org/)
-
-#### [图解Git](http://marklodato.github.io/visual-git-guide/index-zh-cn.html)
-
-#### [Pro Git 2](http://git-scm.com/book/zh/v2)
-
-#### [Git与GitHub入门基础视频](http://www.nowcoder.com/courses/2)
-
-#### [GitHub Training](https://training.github.com)
-
-#### [Git-it](http://jlord.us/git-it/)
-
-#### [Git系列教程](http://acoder.cc/git.html)
-
-#### [Pro Git（中文版）](http://git.oschina.net/progit/)
-
-#### [GitHub中文指南](http://www.worldhello.net/gotgithub/)
-
-#### [Git官方指南中文版](http://git-scm.com/2010/06/09/pro-git-zh.html)
-
-#### [git - 简易指南](http://www.bootcss.com/p/git-guide/)
-
-#### [廖雪峰Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
-
-#### [猴子都能懂的Git入门](http://backlogtool.com/git-guide/cn/)
-
-#### [The Git Community Book](http://alx.github.io/gitbook/)
-
-#### [Git Community Book 中文版](http://gitbook.liuhui998.com/)
-
-#### [Git指南](https://github.com/geeeeeeeeek/git-recipes/wiki)
