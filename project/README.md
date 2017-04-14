@@ -1,6 +1,9 @@
 
 ### 开源应用
 
+#### [新闻 + 视频直播](https://github.com/452MJ/C9MJ)
+> 基于 MVP + Glide + Retrofit + RxJava2.0 + butterknife 的C9MJ TV (斗鱼douyu/熊猫panda/战旗zhanqi/虎牙huya/龙珠longhzu/全民quanmin/网易cc/火猫huomao + 英雄联盟LOL/守望先锋OW/DOTA2/炉石传说hs/CSGO)App。ps：只有观看熊猫Panda TV才有弹幕(bullet/barrage/danmu)播放功能。
+
 #### [Espresso](https://github.com/TonnyL/Espresso)
 > Espresso is an express delivery tracking app designed with Material Design style, built on MVP(Model-View-Presenter) architecture with RxJava2, Retrofit2, Realm database and ZXing.
 
