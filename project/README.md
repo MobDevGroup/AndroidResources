@@ -1,6 +1,9 @@
 
 ### 开源应用
 
+#### [高仿全民直播（全民TV）](https://github.com/jenly1314/KingTV)
+> 本App 采用 MVP + RXJava + Retrofit + OKHttp + Material Design + Dagger2 + Base + Glide + GreenDao构建，高仿全民直播Android App
+
 #### [新闻 + 视频直播](https://github.com/452MJ/C9MJ)
 > 基于 MVP + Glide + Retrofit + RxJava2.0 + butterknife 的C9MJ TV (斗鱼douyu/熊猫panda/战旗zhanqi/虎牙huya/龙珠longhzu/全民quanmin/网易cc/火猫huomao + 英雄联盟LOL/守望先锋OW/DOTA2/炉石传说hs/CSGO)App。ps：只有观看熊猫Panda TV才有弹幕(bullet/barrage/danmu)播放功能。
 
