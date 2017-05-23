@@ -1,6 +1,12 @@
 
 ### 开源应用
 
+#### [AndroidArchitecture](https://github.com/iammert/AndroidArchitecture)
+> 结合Android官方推荐的Android Architecture Component实例展示LiveData, Room Persistence, Dagger 2, Retrofit, MVVM and DataBinding的使用
+
+#### [android-mvp-kotlin-starter](https://github.com/ravidsrk/android-mvp-kotlin-starter)
+> 一个用kotlin改写MVP的例子
+
 #### [高仿全民直播（全民TV）](https://github.com/jenly1314/KingTV)
 > 本App 采用 MVP + RXJava + Retrofit + OKHttp + Material Design + Dagger2 + Base + Glide + GreenDao构建，高仿全民直播Android App
 

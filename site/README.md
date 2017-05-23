@@ -1,6 +1,15 @@
 
 ### Android资源站
 
+#### [GradleCN](http://gradlecn.org/)
+> GradleCN中文翻译站
+
+#### [Kotlin中文翻译站](https://www.kotlincn.net/)
+> 国人组织翻译的Kotlin中文站
+
+#### [ConstraintLayout](https://constraintlayout.com/)
+> 一个专门介绍约束布局ConstraintLayout的网站
+
 #### [谷歌开发者中国站](https://developers.google.cn/)
 > Google Developers 中国网站是特别为中国开发者而建立的，它汇集了 Google 为全球开发者所提供的开发技术资源，包括 API 文档、开发案例、技术培训的视频。
 
@@ -195,6 +204,15 @@
 
 #### [AndroidXRef](http://androidxref.com/)
 > Android各个版本系统源代码在线浏览者站。
+
+#### [Opersys](http://xref.opersys.com/)
+> 专门用于查看AOSP的网站
+
+#### [Android Drawables](http://androiddrawables.com/)
+> 用于检索Android系统原生图标的网站
+
+#### [OpenGork](https://opengrok.github.io/OpenGrok/)
+> 开源的源代码检索服务器搜索框架
 
 #### [23CODE](http://www.23code.com/)
 > android经典开源代码分享站
