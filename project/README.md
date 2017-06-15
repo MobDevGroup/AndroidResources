@@ -1,6 +1,12 @@
 
 ### 开源应用
 
+#### [android-permission-checker-app](https://github.com/Arjun-sna/android-permission-checker-app)
+> 这个App可以辅助我们检查已安装App所申请的动态权限
+
+#### [ganguo](https://github.com/yanyiqun001/ganguo)
+> 一款基于GankIo开发的练手项目。项目采用 MVP+Dagger2+Retrofit + RxJava开发。首页布局样式大致参考掘金客户端。
+
 #### [AndroidArchitecture](https://github.com/iammert/AndroidArchitecture)
 > 结合Android官方推荐的Android Architecture Component实例展示LiveData, Room Persistence, Dagger 2, Retrofit, MVVM and DataBinding的使用
 
