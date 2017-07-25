@@ -1,6 +1,39 @@
 
 ### 开源应用
 
+#### [CNode-android](https://github.com/shellljx/CNode-android)
+> CNode三方客户端
+
+#### [Mysplash](https://github.com/WangDaYeeeeee/Mysplash)
+> Unsplash三方客户端
+
+#### [bilibili-android-client](https://github.com/HotBitmapGG/bilibili-android-client)
+> bilibili三方客户端
+
+#### [Tucao](https://github.com/blackbbc/Tucao)
+> 吐槽三方客户端
+
+#### [MyGank](https://github.com/mask-hao/MyGank)
+> gank.io第三方客户端
+
+#### [防撤回神器](https://github.com/JasonQS/Anti-recall)
+> 微信防撤回神器
+
+#### [SmartRecom](https://github.com/LRH1993/SmartRecom)
+> 一款基于行为识别和个性化推荐的智能推荐APP，实时为你推荐音乐和电影
+
+#### [PoiShuhui-Kotlin](https://github.com/wuapnjie/PoiShuhui-Kotlin)
+> 一个用kotlin开发的漫画App
+
+#### [Protein](https://github.com/gejiaheng/Protein)
+> 一款漂亮的Dribbble客户端
+
+#### [Twobbble](https://github.com/550609334/Twobbble)
+> 用kotlin实现的Dribbble客户端
+
+#### [Orin](https://github.com/aliumujib/Orin)
+> 一款Material Design风格的音乐播放器
+
 #### [android-permission-checker-app](https://github.com/Arjun-sna/android-permission-checker-app)
 > 这个App可以辅助我们检查已安装App所申请的动态权限
 
