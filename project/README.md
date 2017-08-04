@@ -1,6 +1,12 @@
 
 ### 开源应用
 
+#### [TouTiao](https://github.com/chaychan/TouTiao)
+> 精仿今日头条
+
+#### [NewPipe](https://github.com/TeamNewPipe/NewPipe)
+> 一款轻量级的Youtube视频客户端
+
 #### [CNode-android](https://github.com/shellljx/CNode-android)
 > CNode三方客户端
 
