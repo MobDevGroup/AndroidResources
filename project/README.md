@@ -1,6 +1,9 @@
 
 ### 开源应用
 
+#### [VRPlayer](https://github.com/wheat7/VRPlayer)
+> 一款VR视频播放器
+
 #### [GankClient-Kotlin](https://github.com/githubwing/GankClient-Kotlin)
 > kotlin实现的干货集中营Android客户端
 

@@ -43,6 +43,9 @@
 #### [RxMarbles](http://rxmarbles.com/)
 > 直观有趣的宝石图，帮助你更好的理解RxJava操作符
 
+#### [HenCoder](http://hencoder.com/)
+> 给高级 Android 工程师的进阶手册
+
 #### [Gradle插件用户指南翻译版](http://rinvay.github.io/android/2015/03/26/Gradle-Plugin-User-Guide%28Translation%29/#102)
 > Gradle插件用户指南翻译版。
 
