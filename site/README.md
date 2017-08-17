@@ -1,11 +1,32 @@
 
 ### Android资源站
 
+#### [GradleCN](http://gradlecn.org/)
+> GradleCN中文翻译站
+
+#### [Kotlin中文翻译站](https://www.kotlincn.net/)
+> 国人组织翻译的Kotlin中文站
+
+#### [ConstraintLayout](https://constraintlayout.com/)
+> 一个专门介绍约束布局ConstraintLayout的网站
+
+#### [谷歌开发者中国站](https://developers.google.cn/)
+> Google Developers 中国网站是特别为中国开发者而建立的，它汇集了 Google 为全球开发者所提供的开发技术资源，包括 API 文档、开发案例、技术培训的视频。
+
+#### [Android官方开发指南中文站](http://developer.android.google.cn/)
+> 主要介绍Android 入门，API使用指南，API查阅参考，相关开发工具介绍，Google服务，官方给出的实例(Samples),以及每年Google I/O大会发布的预览版Android系统。无须翻墙
+
 #### [Android官方开发指南](https://developer.android.com/intl/zh-cn/develop/index.html)
 >   主要介绍Android 入门，API使用指南，API查阅参考，相关开发工具介绍，Google服务，官方给出的实例(Samples),以及每年Google I/O大会发布的预览版Android系统，需借助VPN翻墙。
 
 #### [Android官方分发指南](https://developer.android.com/intl/zh-cn/distribute/index.html)
 > 主要介绍Google play,以及如何开发一款成功的App，和如何用App来吸引并留住用户，App的盈利，数据分析等。
+
+#### [Study Jams](http://www.studyjamscn.com/)
+> 跟着Google一起学Android
+
+#### [Android Blog 周刊](http://androidblog.cn/)
+> Android Blog 周刊
 
 #### [Codelabs](http://www.code-labs.io/)
 > 谷歌代码学习指南
@@ -18,6 +39,12 @@
 
 #### [Android官方培训课程中文版](http://hukai.me/android-training-course-in-chinese/index.html)
 > 国内开发者组织翻译的Android官网培训课程。
+
+#### [RxMarbles](http://rxmarbles.com/)
+> 直观有趣的宝石图，帮助你更好的理解RxJava操作符
+
+#### [HenCoder](http://hencoder.com/)
+> 给高级 Android 工程师的进阶手册
 
 #### [Gradle插件用户指南翻译版](http://rinvay.github.io/android/2015/03/26/Gradle-Plugin-User-Guide%28Translation%29/#102)
 > Gradle插件用户指南翻译版。
@@ -42,6 +69,9 @@
 
 #### [AndroidCat](http://www.androidcat.com/)
 > 收集和整理Android开发者们在工作和学习过程中可能会需要用到的一些网站和博客链接
+
+#### [DiyCode](http://diycode.cc/)
+> DiyCode是一个国内高端开发者交流分享社区。
 
 #### [CSDN移动版块](http://blog.csdn.net/mobile/index.html)
 > 全球最大的中文技术社区，其移动博客专栏经常会有不错的文章更新出来。
@@ -112,6 +142,9 @@
 #### [国外资源站](https://awesome-awesomeness.zeef.com/)
 > 国外资源站
 
+#### [mydevice](http://mydevice.io/)
+> 设备检测
+
 #### [Android碎片化报告](http://opensignal.com/reports/2015/android-fragmentation/)
 > Android历年碎片化报告。
 
@@ -131,6 +164,33 @@
 > 收集整理Android开发所需的Android SDK、开发中用到的工具、Android开发教程、Android设计规范，免费的设计素材等。
 欢迎大家推荐自己在Android开发过程中用的好用的工具、学习开发教程、用到设计素材。
 
+#### [知识WIKI](http://wiki.jikexueyuan.com/)
+> 汇集各种技术的wiki指南
+
+#### [在线混淆模板文件](https://proguard.herokuapp.com/)
+> Proguard文件生成
+
+#### [每天发现一个好链接](http://admire.so/)
+> 每天发现一个好链接
+
+#### [jitpack](https://jitpack.io/)
+>快速发布开源库的自定义的Maven仓库
+
+#### [Bintray](https://bintray.com/bintray/jcenter)
+> Android Studio工程默认仓库jcenter
+
+#### [Maven](http://maven.org/)
+> Maven远程仓库
+
+#### [Linux命令学习网站](http://explainshell.com/)
+> Linux命令学习网站
+
+#### [GitLogs](http://www.gitlogs.com/)
+> 一个支持订阅GitHub流行趋势库的网站
+
+#### [hashnode](https://hashnode.com)
+> 在线技术文章分类
+
 ### Android源码站
 
 #### [codota](http://www.codota.com/)
@@ -147,6 +207,15 @@
 
 #### [AndroidXRef](http://androidxref.com/)
 > Android各个版本系统源代码在线浏览者站。
+
+#### [Opersys](http://xref.opersys.com/)
+> 专门用于查看AOSP的网站
+
+#### [Android Drawables](http://androiddrawables.com/)
+> 用于检索Android系统原生图标的网站
+
+#### [OpenGork](https://opengrok.github.io/OpenGrok/)
+> 开源的源代码检索服务器搜索框架
 
 #### [23CODE](http://www.23code.com/)
 > android经典开源代码分享站
@@ -188,63 +257,3 @@
 
 #### [SegmentFault](http://segmentfault.com/)
 > 国内问答站。
-
-### 开源社区
-
-#### [GitHub](http://www.github.com/)
-> 越来越多喜欢开源的开发者聚集到这里。
-
-#### [CodePlex](http://www.codeplex.com/)
-> 微软主办的开源网站。
-
-#### [Google Code](https://code.google.com/)
-> 谷歌旗下的开源网站，前不久谷歌宣布要将其关闭。
-
-#### [SourceForge](http://sourceforge.net/)
-> SourceForge.net，又称SF.net，是开源软件开发者进行开发管理的集中式场所。
-
-#### [bitbucket](https://bitbucket.org/)
-> 国外另一个git托管平台,不过这里可以免费创建私有代码仓库。
-
-#### [GitLab](https://www.gitlab.com/)
-> 作为开源项目，国外又一个git托管平台。
-
-#### [GitCafe](https://gitcafe.com/)
-> 国内一家git开源社区托管平台。
-
-#### [Git@OSC](http://git.oschina.net/)
-> 开源中国旗下代码托管平台。
-
-#### [Coding](https://coding.net/user)
-> 国内一家代码托管平台，为软件开发者提供基于云计算技术的软件开发平台，包括项目管理，代码托管，运行空间和质量控制等等。
-
-#### [豆瓣CODE](http://douban-code.github.io/)
-> 豆瓣旗下的开源协作平台
-
-### Git文档
-
-#### [Git与GitHub入门基础视频](http://www.nowcoder.com/courses/2)
-
-#### [GitHub Training](https://training.github.com)
-
-#### [Git-it](http://jlord.us/git-it/)
-
-#### [Git系列教程](http://acoder.cc/git.html)
-
-#### [Pro Git（中文版）](http://git.oschina.net/progit/)
-
-#### [GitHub中文指南](http://www.worldhello.net/gotgithub/)
-
-#### [Git官方指南中文版](http://git-scm.com/2010/06/09/pro-git-zh.html)
-
-#### [git - 简易指南](http://www.bootcss.com/p/git-guide/)
-
-#### [廖雪峰Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
-
-#### [猴子都能懂的Git入门](http://backlogtool.com/git-guide/cn/)
-
-#### [The Git Community Book](http://alx.github.io/gitbook/)
-
-#### [Git Community Book 中文版](http://gitbook.liuhui998.com/)
-
-#### [Git指南](https://github.com/geeeeeeeeek/git-recipes/wiki)

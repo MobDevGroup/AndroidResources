@@ -1,6 +1,270 @@
 
 ### 开源应用
 
+#### [VRPlayer](https://github.com/wheat7/VRPlayer)
+> 一款VR视频播放器
+
+#### [GankClient-Kotlin](https://github.com/githubwing/GankClient-Kotlin)
+> kotlin实现的干货集中营Android客户端
+
+#### [TouTiao](https://github.com/chaychan/TouTiao)
+> 精仿今日头条
+
+#### [NewPipe](https://github.com/TeamNewPipe/NewPipe)
+> 一款轻量级的Youtube视频客户端
+
+#### [CNode-android](https://github.com/shellljx/CNode-android)
+> CNode三方客户端
+
+#### [Mysplash](https://github.com/WangDaYeeeeee/Mysplash)
+> Unsplash三方客户端
+
+#### [bilibili-android-client](https://github.com/HotBitmapGG/bilibili-android-client)
+> bilibili三方客户端
+
+#### [Tucao](https://github.com/blackbbc/Tucao)
+> 吐槽三方客户端
+
+#### [MyGank](https://github.com/mask-hao/MyGank)
+> gank.io第三方客户端
+
+#### [防撤回神器](https://github.com/JasonQS/Anti-recall)
+> 微信防撤回神器
+
+#### [SmartRecom](https://github.com/LRH1993/SmartRecom)
+> 一款基于行为识别和个性化推荐的智能推荐APP，实时为你推荐音乐和电影
+
+#### [PoiShuhui-Kotlin](https://github.com/wuapnjie/PoiShuhui-Kotlin)
+> 一个用kotlin开发的漫画App
+
+#### [Protein](https://github.com/gejiaheng/Protein)
+> 一款漂亮的Dribbble客户端
+
+#### [Twobbble](https://github.com/550609334/Twobbble)
+> 用kotlin实现的Dribbble客户端
+
+#### [Orin](https://github.com/aliumujib/Orin)
+> 一款Material Design风格的音乐播放器
+
+#### [android-permission-checker-app](https://github.com/Arjun-sna/android-permission-checker-app)
+> 这个App可以辅助我们检查已安装App所申请的动态权限
+
+#### [ganguo](https://github.com/yanyiqun001/ganguo)
+> 一款基于GankIo开发的练手项目。项目采用 MVP+Dagger2+Retrofit + RxJava开发。首页布局样式大致参考掘金客户端。
+
+#### [AndroidArchitecture](https://github.com/iammert/AndroidArchitecture)
+> 结合Android官方推荐的Android Architecture Component实例展示LiveData, Room Persistence, Dagger 2, Retrofit, MVVM and DataBinding的使用
+
+#### [android-mvp-kotlin-starter](https://github.com/ravidsrk/android-mvp-kotlin-starter)
+> 一个用kotlin改写MVP的例子
+
+#### [高仿全民直播（全民TV）](https://github.com/jenly1314/KingTV)
+> 本App 采用 MVP + RXJava + Retrofit + OKHttp + Material Design + Dagger2 + Base + Glide + GreenDao构建，高仿全民直播Android App
+
+#### [新闻 + 视频直播](https://github.com/452MJ/C9MJ)
+> 基于 MVP + Glide + Retrofit + RxJava2.0 + butterknife 的C9MJ TV (斗鱼douyu/熊猫panda/战旗zhanqi/虎牙huya/龙珠longhzu/全民quanmin/网易cc/火猫huomao + 英雄联盟LOL/守望先锋OW/DOTA2/炉石传说hs/CSGO)App。ps：只有观看熊猫Panda TV才有弹幕(bullet/barrage/danmu)播放功能。
+
+#### [Espresso](https://github.com/TonnyL/Espresso)
+> Espresso is an express delivery tracking app designed with Material Design style, built on MVP(Model-View-Presenter) architecture with RxJava2, Retrofit2, Realm database and ZXing.
+
+#### [Phonograph](https://github.com/kabouzeid/Phonograph)
+> A material designed music player for Android
+
+#### [Shuttle](https://github.com/timusus/Shuttle)
+> Shuttle音乐播放器
+
+#### [FastHub](https://github.com/k0shk0sh/FastHub)
+> 漂亮，简洁的 Android GitHub 客户端
+
+#### [GracefulMovies](https://github.com/woxingxiao/GracefulMovies)
+> 简影讯，简约精彩影讯。基于Retrofit+RxJava+MVP+Colorful多彩主题框架开发的高颜值影讯app。简约，优雅，精彩，即看即走，现已正式发布上线。
+
+#### [TodayNews](https://github.com/yewei02538/TodayNews)
+> 一个仿今日头条的开源项目
+
+#### [ListenerMusicPlayer](https://github.com/hefuyicoder/ListenerMusicPlayer)
+> 一款优雅的遵循 Material Design 的开源音乐播放器，UI参考 腾讯轻听 音乐播放器,使用 Lastfm Api 与 酷狗歌词Api。项目架构采用 mvp-clean，基于 Retrofit2 + Dagger2 + Rxjava + RxBus + Glide。
+
+#### [CloudReader](https://github.com/youlookwhat/CloudReader)
+> 云阅：一款基于网易云音乐UI，使用Gank.Io及豆瓣api开发的符合Google Material Design的Android开源项目。项目采取的是MVVM-DataBinding架构开发，现主要包括：干货区、电影区和书籍区三个子模块。
+
+#### [干乎](https://github.com/jokermonn/GankOr)
+> 一款基于 Gank 和知乎接口的娱乐休闲软件
+
+#### [TryGank](https://github.com/AstroGypsophila/TryGank)
+> 干货集中营第三方客户端
+
+#### [remusic](https://github.com/aa112901/remusic)
+> 仿网易云音乐 安卓版，netease android，音乐播放器 在线 下载
+
+#### [FakeWeather](https://github.com/li-yu/FakeWeather)
+> 『假装看天气』─── 天气预报 & 公交查询 & 资讯阅读 & 妹纸福利 的 Android 客户端
+
+#### [UGank](https://github.com/Bakumon/UGank)
+> 有干货」—— 体验别具一格的 Gank.io Android 客户端
+
+#### [WeekToDo](https://github.com/a-voyager/WeekToDo)
+> 《番茄周》软件开源项目
+
+#### [仿茄子快传](https://github.com/mayubao/KuaiChuan)
+> 仿茄子快传的一款文件传输应用， 涉及到Socket通信，包括TCP，UDP通信。
+
+#### [MaterialHome](https://github.com/hymanme/MaterialHome)
+> 一款第三方的豆瓣图书客户端
+
+#### [likequanmintv](https://github.com/a371166028/likequanmintv)
+> 基于MVP的Retrofit2(okhttp3)+rxjava+dagger2+greendao+glide+rtmp直播。该项目系仿全民TV,属于独立开发者作品.
+
+#### [MyDiary](https://github.com/erttyy8821/MyDiary)
+> 电影《你的名字》同款App
+
+#### [KnowWeather](https://github.com/SilenceDut/KnowWeather)
+> 一款漂亮的 Android 天气 App
+
+#### [FolioReader-Android](https://github.com/FolioReader/FolioReader-Android)
+> 一款完成度很高的ePub Android 阅读器
+
+#### [StylishMusicPlayer](https://github.com/ryanhoo/StylishMusicPlayer)
+> A stylish music player for android device 16+
+
+#### [banya](https://github.com/forezp/banya)
+> 瓣呀，一个非官方的豆瓣app
+
+#### [AndroidFire](https://github.com/jaydenxiao2016/AndroidFire)
+> 一款新闻阅读 App框架，基于 Material Design + MVP + RxJava + Retrofit + Glide，基本涵盖了当前 Android 端开发最常用的主流框架，基于此框架可以快速开发一个app。
+
+#### [TasteNews](https://github.com/SomeOneIntheWorld/TasteNews)
+> MVP架构的新闻类应用
+
+#### [FreeBook](https://github.com/80945540/FreeBook)
+> 基于MVP模式开发的带缓存网络爬虫,采用最流行框架搭建,干货多多
+
+#### [BookReader](https://github.com/JustWayward/BookReader)
+> 任阅小说阅读器，高仿追书神器，实现追书推荐、标签检索、3D仿真翻页效果、文章阅读、缓存章节、日夜间模式、文本朗读等功能。
+
+#### [Tuikan](https://github.com/homcin/Tuikan)
+> 「推看」是一款集知乎头条，美图，视频于一体的休闲阅读app。
+
+#### [Simplenote for Android](https://github.com/Automattic/simplenote-android)
+> Simplenote Android客户端
+
+#### [PrettyGirls](https://github.com/PleaseCallMeCoder/PrettyGirls)
+> 一个基于MVP+Retrofit+RxJava+MaterialDesign和gank.io的MeiZhi客户端。
+
+#### [OpenEyes](https://github.com/xiaohaibin/OpenEyes)
+> 仿照[开眼视频]客户端做的一个App
+
+#### [quill](https://github.com/vickychijwani/quill)
+> 一款搭配Ghost博客的客户端
+
+#### [书柜](https://github.com/iHaPBoy/BookShelf)
+> 一款用于管理个人图书及阅读笔记的移动 Android 应用。
+
+#### [OhMyBiliBili](https://github.com/HotBitmapGG/OhMyBiliBili)
+> 莆田系高仿真哔哩哔哩动画客户端
+
+#### [JNote](https://github.com/Jhuster/JNote)
+> 一款支持部分Markdown语法的轻量级便签软件。
+
+#### [SeeWeather](https://github.com/xcc3641/SeeWeather)
+> 一款遵循Material Design风格的只看天气的APP。
+
+#### [MicroReader](https://github.com/YiuChoi/MicroReader)
+> 一个小而美的阅读客户端
+
+#### [GankGirl](https://github.com/gaolonglong/GankGirl)
+> RxJava+Retrofit+Glide构建的gank.io第三方客户端，包含妹子图和技术干货等。
+
+#### [WBZhiHuDailyPaper](https://github.com/chatwyn/WBZhiHuDailyPaper)
+> 高仿知乎日报
+
+#### [huaban](https://github.com/LiCola/huabanDemo)
+> MD版的花瓣网App
+
+#### [IPTVFree](https://github.com/michelelacorte/IPTVFree)
+> Simple IPTV
+
+#### [GanHuoIO](https://github.com/burgessjp/GanHuoIO)
+> 基于Gank.IO提供的API的第三方客户端
+
+#### [AndroidWeekly](https://github.com/mzule/AndroidWeekly)
+> AndroidWeekly.net第三方客户端
+
+#### [Baby](https://github.com/rogerou/Baby)
+> 一个私密社交APP
+
+#### [DiyCodeForAndroid](https://github.com/Yasic/DiyCodeForAndroid)
+> Diycode社区Android客户端
+
+#### [Knowledge](https://github.com/DanteAndroid/Knowledge)
+> A MD project with MVP architecture
+
+#### [DoubanFM](https://github.com/nekocode/murmur)
+> Murmur是一个带白噪声效果的豆瓣电台第三方客户端,采用 Kotlin / MVP / ReactiveX 进行构建.
+
+#### [AntennaPod](https://github.com/AntennaPod/AntennaPod)
+> A podcast manager for Android
+
+#### [DMPlayer](https://github.com/dibakarece/DMPlayer)
+> Android音乐播放器
+
+#### [Idaily](https://github.com/liuguangqiang/Idaily)
+> 开源的第三方知乎日报客户端
+
+#### [RealStuff](https://github.com/IvorHu/RealStuff)
+> 一个看妹纸与开发资讯的Android APP，具有本地缓存、分享与添加收藏的功能
+
+#### [GankMM](https://github.com/maning0303/GankMM)
+> 干货集中营第三方客户端
+
+#### [CoCoin](https://github.com/Nightonke/CoCoin)
+> 一款多视图记账App
+
+#### [TranslateApp](https://github.com/maoruibin/TranslateApp)
+> TranslateApp 一个实现『划词翻译』功能的 Android 开源应用
+
+#### [GanK](https://github.com/dongjunkun/GanK)
+> 干货集中营第三方客户端
+
+#### [AndroidReview](https://github.com/envyfan/AndroidReview)
+> Android面试复习App
+
+#### [ZhiHuMVP](https://github.com/fangx/ZhiHuMVP)
+> 采用MVP架构的仿知乎APP
+
+#### [OuNews](https://github.com/oubowu/OuNews)
+> 新闻阅读类App
+
+#### [Douya](https://github.com/DreaminginCodeZH/Douya)
+> 开源的 Material Design 豆瓣客户端
+
+#### [SearchPictureTool](https://github.com/wenhuaijun/SearchPictureTool)
+> 图片搜索APP源码，Material Design，Rxjava
+
+#### [ONE-Unofficial](https://github.com/Uphie/ONE-Unofficial)
+> 非官方版“一个(ONE)”，一个比官方版更优秀的版本。
+
+#### [growth](https://github.com/phodal/growth)
+> Growth关注于Web开发的流程及其技术栈、学习路线、成长衡量
+
+#### [EasyGank](https://github.com/CaMnter/EasyGank)
+> The project build framework based on the Rx series and MVP pattern
+
+#### [ribot-app-android](https://github.com/ribot/ribot-app-android)
+> The ribot studio app for the Android Platform
+
+#### [MovieGuide](https://github.com/esoxjem/MovieGuide)
+> An Android app that showcases the MVP pattern and RxJava
+
+#### [NBAPlus](https://github.com/SilenceDut/NBAPlus)
+> A concise APP about NBA News and Event with RxJava and EventBus
+
+#### [SimpleNews](https://github.com/liuling07/SimpleNews)
+> 基于Material Design和MVP的新闻客户端
+
+#### [Auro](https://github.com/architjn/Auro)
+> 1st Most Fastest, Latest Designed and open source Music player
+
 #### [Leisure](https://github.com/MummyDing/Leisure)
 > 闲暇(Leisure)是一款集"知乎日报"、“果壳科学人”、“新华网新闻”以及“豆瓣图书”于一体的阅读类Android应用。
 

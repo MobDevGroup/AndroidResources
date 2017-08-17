@@ -1,6 +1,14 @@
 
 ### 架构
 
+[当Android遇到了Flux，架构Android应用的新方式](http://androidflux.github.io/)
+
+#### [Android MVVM到底是啥？看完就明白了](http://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=401410759&idx=1&sn=89f0e3ddf9f21f6a5d4de4388ef2c32f)
+
+#### [Android架构之从MVP到MVVM](http://www.jianshu.com/p/4e3220a580f6)
+
+#### [【译】Android应用架构](http://www.jianshu.com/p/8ca27934c6e6)
+
 #### [一种在android中实现MVP模式的新思路](https://github.com/bboyfeiyu/android-tech-frontier/tree/master/androidweekly/%E4%B8%80%E7%A7%8D%E5%9C%A8android%E4%B8%AD%E5%AE%9E%E7%8E%B0MVP%E6%A8%A1%E5%BC%8F%E7%9A%84%E6%96%B0%E6%80%9D%E8%B7%AF)
 
 #### [MVC，MVP 和 MVVM 的图示](http://www.ruanyifeng.com/blog/2015/02/mvcmvp_mvvm.html)
@@ -25,6 +33,12 @@
 
 #### [一款APP，从设计稿到切图---Android篇](http://www.ui.cn/detail/79573.html)
 
+#### [初创团队 UI 设计工作流](https://github.com/coffin5257/UI-Design-Guide)
+
+### 开发调试
+
+#### [如何给安卓APP安装听诊器,检查数据问题](http://www.figotan.org/2016/04/18/using-stetho-to-diagnose-data-on-android/)
+
 ### 开发经验
 
 #### [Android学习路线权威指南](http://blog.csdn.net/singwhatiwanna/article/details/49560409)
@@ -48,6 +62,10 @@
 #### [Android技术积累:开发规范](http://keeganlee.me/post/android/20150709)
 
 ### 开发技巧
+
+#### [Android冷启动时间优化](http://blog.waynell.com/2015/11/17/android-cold-start/)
+
+#### [安卓开发技术：监听软键盘的显示与隐藏](http://toughcoder.net/blog/2015/10/09/android-trick-detect-soft-keyboard-show-slash-hide/)
 
 #### [RxJava适用场景小结](http://zhuanlan.zhihu.com/program-life/20380883)
 
@@ -134,6 +152,8 @@
 
 ### 事件分发
 
+#### [Android Scroller完全解析，关于Scroller你所需知道的一切](http://blog.csdn.net/guolin_blog/article/details/48719871)
+
 #### [Android事件分发机制完全解析，带你从源码的角度彻底理解(上)](http://blog.csdn.net/guolin_blog/article/details/9097463)
 
 #### [Android事件分发机制完全解析，带你从源码的角度彻底理解(下)](http://blog.csdn.net/guolin_blog/article/details/9153747)
@@ -156,8 +176,15 @@
 
 #### [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083#toc_31)
 
+#### [dagger2让你爱不释手-基础依赖注入框架篇](http://www.jianshu.com/p/cd2c1c9f68d4)
+
+#### [dagger2让你爱不释手-重点概念讲解、融合篇](http://www.jianshu.com/p/1d42d2e6f4a5)
+
+#### [dagger2让你爱不释手-终结篇](http://www.jianshu.com/p/65737ac39c44)
 
 ### 项目构建
+
+#### [如何选择 compileSdkVersion, minSdkVersion 和 targetSdkVersion](http://chinagdg.org/2016/01/picking-your-compilesdkversion-minsdkversion-targetsdkversion/)
 
 #### [Android Studio系列教程四--Gradle基础](http://stormzhang.com/devtools/2014/12/18/android-studio-tutorial4/)
 
@@ -179,6 +206,8 @@
 
 ### 缓存
 
+#### [Android存储使用参考](http://www.liaohuqiu.net/cn/posts/storage-in-android/)
+
 #### [Android DiskLruCache源码解析硬盘缓存的绝佳方案](http://blog.csdn.net/lmj623565791/article/details/47251585)
 
 #### [android中图片的三级cache策略（内存、文件、网络）之一](http://blog.csdn.net/singwhatiwanna/article/details/9054001)
@@ -189,6 +218,10 @@
 
 ### 图像处理
 
+#### [Android 高清加载巨图方案 拒绝压缩图片](http://blog.csdn.net/lmj623565791/article/details/49300989/)
+
+#### [Android 开发绕不过的坑：你的 Bitmap 究竟占多大内存？](https://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=403263974&idx=1&sn=b0315addbc47f3c38e65d9c633a12cd6)
+
 #### [Android高效加载大图、多图解决方案，有效避免程序OOM](http://blog.csdn.net/guolin_blog/article/details/9316683)
 
 #### [Android照片墙应用实现，再多的图片也不怕崩溃](http://blog.csdn.net/guolin_blog/article/details/9526203)
@@ -198,6 +231,24 @@
 #### [Android多点触控技术实战，自由地对图片进行缩放和移动](http://blog.csdn.net/guolin_blog/article/details/11100327)
 
 ### 性能优化
+
+#### [这应该是目前最系统的 Android 界面性能调优资料了](https://testerhome.com/topics/4304)
+
+#### [APK瘦身实践](http://www.jayfeng.com/2015/12/29/APK%E7%98%A6%E8%BA%AB%E5%AE%9E%E8%B7%B5/)
+
+#### [Android 内存泄漏总结](http://yq.aliyun.com/articles/3009)
+
+#### [BlockCanary — 轻松找出Android App界面卡顿元凶](http://blog.zhaiyifan.cn/2016/01/16/BlockCanaryTransparentPerformanceMonitor/)
+
+#### [Andriod性能优化之列表卡顿——以“简书”APP为例](http://blog.csdn.net/zhaokaiqiang1992/article/details/49951095)
+
+#### [Android内存优化杂谈](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=400656149&idx=1&sn=122b4f4965fafebf78ec0b4fce2ef62a)
+
+#### [值得推荐的Android应用性能检测工具列表](http://zhuanlan.zhihu.com/zmywly8866/20416881)
+
+#### [性能优化模式](http://tech.meituan.com/performance_tuning_pattern.html)
+
+#### [15个必知的Android开发者选项](http://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=401101455&idx=1&sn=dffc19631e2356ed0aea581f5d7769d7)
 
 #### [用 LeakCanary 检测内存泄漏](https://realm.io/cn/news/droidcon-ricau-memory-leaks-leakcanary/)
 
@@ -254,6 +305,8 @@
 #### [性能优化系列总篇](http://www.trinea.cn/android/performance/)
 
 ### 动态加载
+
+#### [Android博客周刊专题之＃插件化开发＃](http://www.androidblog.cn/index.php/Index/detail/id/16#)
 
 #### [安卓App热补丁动态修复技术介绍](https://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=400118620&idx=1&sn=b4fdd5055731290eef12ad0d17f39d4a)
 
