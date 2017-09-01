@@ -1,6 +1,12 @@
 
 ### 开源应用
 
+#### [Eyepetizer-in-Kotlin](https://github.com/LRH1993/Eyepetizer-in-Kotlin)
+> 使用Kotlin撸一款Eyepetizer
+
+#### [DarkCalculator](https://github.com/HK-SHAO/DarkCalculator)
+> 一款支持复数运算的计算器
+
 #### [VRPlayer](https://github.com/wheat7/VRPlayer)
 > 一款VR视频播放器
 
