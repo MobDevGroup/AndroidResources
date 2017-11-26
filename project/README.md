@@ -1,6 +1,18 @@
 
 ### 开源应用
 
+#### [termux-app](https://github.com/termux/termux-app)
+> Android终端App
+
+#### [NationalGeographic](https://github.com/wheat7/NationalGeographic)
+> 使用了最新的Android Architecture Components(Lifecycle) & Kotlin开发的国家地理-每日精选客户端
+
+#### [CalculatorForProgrammer](https://github.com/youlingwangzi/CalculatorForProgrammer)
+> 一款计算器App
+
+#### [Ribble](https://github.com/armcha/Ribble)
+> 使用 Kotlin 实现的一个 Dribbble 客户端
+
 #### [AndroidTVLauncher](https://github.com/JackyAndroid/AndroidTVLauncher)
 > Android TV桌面
 

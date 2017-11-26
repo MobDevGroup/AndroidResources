@@ -318,6 +318,8 @@
 
 #### [在WebView中如何让JS与Java安全地互相调用](http://www.pedant.cn/2014/07/04/webview-js-java-interface-research/)
 
+#### [Launcher系列文章](http://www.codemx.cn/tags/Launcher/)
+
 ### 最后
 
 更多分类和文章正在整理中。。。欢迎大伙自荐或者推荐优秀技术博文。
