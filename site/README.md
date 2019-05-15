@@ -1,6 +1,12 @@
 
 ### Android资源站
 
+#### [Java多线程系列](http://www.cnblogs.com/skywang12345/p/java_threads_category.html)
+> Java多线程系列专题
+
+#### [kotlin官网翻译](https://www.kotlincn.net)
+> 官网翻译
+
 #### [Android系统源码在线浏览](https://www.androidos.net.cn/ )
 > Android系统在线源码浏览，以及源码文章分析
 

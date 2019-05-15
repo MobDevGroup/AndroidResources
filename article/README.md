@@ -1,7 +1,7 @@
 
 ### 架构
 
-[当Android遇到了Flux，架构Android应用的新方式](http://androidflux.github.io/)
+#### [当Android遇到了Flux，架构Android应用的新方式](http://androidflux.github.io/)
 
 #### [Android MVVM到底是啥？看完就明白了](http://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=401410759&idx=1&sn=89f0e3ddf9f21f6a5d4de4388ef2c32f)
 
@@ -315,6 +315,8 @@
 #### [Android 热补丁动态修复框架小结](http://blog.csdn.net/lmj623565791/article/details/49883661)
 
 ### 其它
+
+#### [Swift is like Kotlin](http://nilhcem.com/swift-is-like-kotlin/)
 
 #### [在WebView中如何让JS与Java安全地互相调用](http://www.pedant.cn/2014/07/04/webview-js-java-interface-research/)
 
